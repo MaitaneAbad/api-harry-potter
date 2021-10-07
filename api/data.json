@@ -1,367 +1,4 @@
 {
-    "hechizos": [
-        {
-            "id": 1,
-            "hechizo": "Accio",
-            "uso": "Encanto de invocación"
-        },
-        {
-            "id": 2,
-            "hechizo": "Glisseo",
-            "uso": "Convierte una escalera en un tobogán"
-        },
-        {
-            "id": 3,
-            "hechizo": "Impervius",
-            "uso": "Protege al lanzador de una variedad de sustancias, incluidos el agua y el fuego."
-        },
-        {
-            "id": 4,
-            "hechizo": "Wingardium Leviosa/Locomotor",
-            "uso": "Levita objetos"
-        },
-        {
-            "id": 5,
-            "hechizo": "Scourgify",
-            "uso": "Limpia cosas"
-        },
-        {
-            "id": 6,
-            "hechizo": "Portus",
-            "uso": "Crea un traslador"
-        },
-        {
-            "id": 7,
-            "hechizo": "Orchideous",
-            "uso": "Crece flores desde el final de la varita"
-        },
-        {
-            "id": 8,
-            "hechizo": "Lumos",
-            "uso": "Hace que la varita emita luz"
-        },
-        {
-            "id": 9,
-            "hechizo": "Reparo",
-            "uso": "Repara objetos rotos"
-        },
-        {
-            "id": 10,
-            "hechizo": "Reducio",
-            "uso": "Contrae objetos"
-        },
-        {
-            "id": 11,
-            "hechizo": "Pack",
-            "uso": "Empaca baúles y equipaje"
-        },
-        {
-            "id": 12,
-            "hechizo": "Riddikulus",
-            "uso": "Transforma los Boggarts en una forma divertida"
-        },
-        {
-            "id": 13,
-            "hechizo": "Protego",
-            "uso": "Protege al lanzador de las maldiciones"
-        },
-        {
-            "id": 14,
-            "hechizo": "Muffliato",
-            "uso": "Evita que otras personas cercanas escuchen conversaciones"
-        },
-        {
-            "id": 15,
-            "hechizo": "Silencio/Langlock",
-            "uso": "Evita que alguien hable (pegando la lengua al paladar)"
-        },
-        {
-            "id": 16,
-            "hechizo": "Expelliarmus",
-            "uso": "Encanto de desarme"
-        },
-        {
-            "id": 17,
-            "hechizo": "Oblivate",
-            "uso": "Borra recuerdos"
-        },
-        {
-            "id": 18,
-            "hechizo": "Episkey",
-            "uso": "Cura heridas leves"
-        },
-        {
-            "id": 19,
-            "hechizo": "Tergeo",
-            "uso": "Limpia superficies"
-        },
-        {
-            "id": 20,
-            "hechizo": "Relashio",
-            "uso": "Obliga al objetivo a soltar lo que sea que esté sosteniendo"
-        },
-        {
-            "id": 21,
-            "hechizo": "Confundo",
-            "uso": "Causa confusiones y hace que otros sean fácilmente susceptibles a la influencia."
-        },
-        {
-            "id": 22,
-            "hechizo": "Expecto Patronum",
-            "uso": "Encanto Patronus"
-        },
-        {
-            "id": 23,
-            "hechizo": "Ferula",
-            "uso": "Conjura vendajes"
-        },
-        {
-            "id": 24,
-            "hechizo": "Evanesco",
-            "uso": "Hechizo de desaparición"
-        },
-        {
-            "id": 25,
-            "hechizo": "Alohomora",
-            "uso": "Abre cerraduras"
-        },
-        {
-            "id": 26,
-            "hechizo": "Nox",
-            "uso": "Apaga lumos"
-        },
-        {
-            "id": 27,
-            "hechizo": "Quietus",
-            "uso": "Silencia la voz mágicamente amplificada"
-        },
-        {
-            "id": 28,
-            "hechizo": "Incendio",
-            "uso": "Crea fuego"
-        },
-        {
-            "id": 29,
-            "hechizo": "Homenum Revelio",
-            "uso": "Revelar personas cercanas"
-        },
-        {
-            "id": 30,
-            "hechizo": "Prior Incantato",
-            "uso": "Revela el último hechizo lanzado"
-        },
-        {
-            "id": 31,
-            "hechizo": "Finite Incantatem",
-            "uso": "Niega los efectos de muchos hechizos."
-        },
-        {
-            "id": 32,
-            "hechizo": "Erecto",
-            "uso": "Levanta carpas u otras estructuras."
-        },
-        {
-            "id": 33,
-            "hechizo": "Diffindo",
-            "uso": "Corta o rasga material"
-        },
-        {
-            "id": 34,
-            "hechizo": "Stupefy",
-            "uso": "Aturde al objetivo"
-        },
-        {
-            "id": 35,
-            "hechizo": "Repelo Muggletum",
-            "uso": "Repele Muggles"
-        },
-        {
-            "id": 36,
-            "hechizo": "Avada Kedavra",
-            "uso": "La maldición asesina"
-        },
-        {
-            "id": 37,
-            "hechizo": "Aguamenti",
-            "uso": "Dispara agua con la varita"
-        },
-        {
-            "id": 38,
-            "hechizo": "Geminio",
-            "uso": "Crea un duplicado temporal y sin valor de cualquier objeto"
-        },
-        {
-            "id": 39,
-            "hechizo": "Locomotor Mortis",
-            "uso": "Maldición de bloqueo de piernas"
-        },
-        {
-            "id": 40,
-            "hechizo": "Anapneo",
-            "uso": "Limpia las vías respiratorias de alguien"
-        },
-        {
-            "id": 41,
-            "hechizo": "Reducto",
-            "uso": "Explota objeto"
-        },
-        {
-            "id": 42,
-            "hechizo": "Obscuro",
-            "uso": "Objetivo con los ojos vendados"
-        },
-        {
-            "id": 43,
-            "hechizo": "Impedimenta",
-            "uso": "Congela a alguien que avanza hacia ti"
-        },
-        {
-            "id": 44,
-            "hechizo": "Cave Inimicum/Protego Totalum",
-            "uso": "Fortalece las defensas de un área"
-        },
-        {
-            "id": 45,
-            "hechizo": "Meteolojinx Recanto",
-            "uso": "Acaba con los efectos de los hechizos meteorológicos"
-        },
-        {
-            "id": 46,
-            "hechizo": "Specialis Revelio",
-            "uso": "Revela propiedades mágicas ocultas en un objeto."
-        },
-        {
-            "id": 47,
-            "hechizo": "Descendo",
-            "uso": "Mueve objetos hacia abajo"
-        },
-        {
-            "id": 48,
-            "hechizo": "Defodio",
-            "uso": "Talla a través de la piedra y el acero"
-        },
-        {
-            "id": 49,
-            "hechizo": "Aparecium",
-            "uso": "Hacer aparecer tinta invisible"
-        },
-        {
-            "id": 50,
-            "hechizo": "Piertotum Locomotor",
-            "uso": "Anima estatuas"
-        },
-        {
-            "id": 51,
-            "hechizo": "Imperio",
-            "uso": "Hace que el objetivo obedezca cada orden"
-        },
-        {
-            "id": 52,
-            "hechizo": "Fidelius Charm",
-            "uso": "Une un secreto al alma de un Guardián de Secretos"
-        },
-        {
-            "id": 53,
-            "hechizo": "Avis/Oppugno",
-            "uso": "Dispara bandada de pájaros con varita"
-        },
-        {
-            "id": 54,
-            "hechizo": "Expulso",
-            "uso": "Explota objetos"
-        },
-        {
-            "id": 55,
-            "hechizo": "Legilimens",
-            "uso": "Revela recuerdos y pensamientos del objetivo."
-        },
-        {
-            "id": 56,
-            "hechizo": "Duro",
-            "uso": "Endurece los objetos"
-        },
-        {
-            "id": 57,
-            "hechizo": "Sonorus",
-            "uso": "Amplifica la voz de uno"
-        },
-        {
-            "id": 58,
-            "hechizo": "Deprimo",
-            "uso": "Crea una gran presión hacia abajo"
-        },
-        {
-            "id": 59,
-            "hechizo": "Levicorpus",
-            "uso": "Levita el objetivo por el tobillo"
-        },
-        {
-            "id": 60,
-            "hechizo": "Liberacorpus",
-            "uso": "Reduce el objetivo de levicorpus"
-        },
-        {
-            "id": 61,
-            "hechizo": "Mobilicorpus",
-            "uso": "Mueve cuerpos"
-        },
-        {
-            "id": 62,
-            "hechizo": "Confringo",
-            "uso": "Explota objetos en llamas"
-        },
-        {
-            "id": 63,
-            "hechizo": "Densaugeo",
-            "uso": "Hace que los dientes crezcan rápidamente"
-        },
-        {
-            "id": 64,
-            "hechizo": "Incarcarous",
-            "uso": "Ata a alguien con cuerdas"
-        },
-        {
-            "id": 65,
-            "hechizo": "Deletrius",
-            "uso": "Descarta los efectos de Prior Incantato"
-        },
-        {
-            "id": 66,
-            "hechizo": "Rictusempra",
-            "uso": "Encanto de cosquillas"
-        },
-        {
-            "id": 67,
-            "hechizo": "Petrificus Totalus",
-            "uso": "El objetivo de renderizado está completamente inmóvil"
-        },
-        {
-            "id": 68,
-            "hechizo": "Fiendfyre Curse",
-            "uso": "Hace fuego maldito"
-        },
-        {
-            "id": 69,
-            "hechizo": "Tarantallegra",
-            "uso": "Obliga al objetivo a bailar"
-        },
-        {
-            "id": 70,
-            "hechizo": "Morsmordre",
-            "uso": "Conjura la Marca Tenebrosa"
-        },
-        {
-            "id": 71,
-            "hechizo": "Sectumsempra",
-            "uso": "Provoca laceraciones graves"
-        },
-        {
-            "id": 72,
-            "hechizo": "Crucio",
-            "uso": "Causa un dolor inmenso"
-        }
-    ],
-    
     "characters": [
         {
             "id": 1,
@@ -1119,122 +756,108 @@
         },
         { 
             "id": 32,
-            "figure": "Fleur Isabelle Weasley",
-            "nickname": "Fleur",
-            "maritalStatus": "Casada con Bill Weasley",
-            "blood": "Cuarta parte Veela",
+            "figure": "James Potter",
+            "nickname": "James o cornamenta",
+            "maritalStatus": "Casado con Lily Evans",
+            "blood": "Sangre pura",
             "children": [
-                    "Victoire Weasley",
-                    "Dominique Weasley",
-                    "Louis Weasley"
+                    "Harry Potter"
                 ],
                 
             "physicalphysicalDescription": 
                 {
-                "breed":"Humana",
-                "genres":"Femenino",
-                "hairColour":"Rubio platino",
-                "eyesColour":"Azules"
+                "breed":"Humano",
+                "genres":"Masculino",
+                "hairColour":"Negro",
+                "eyesColour":"Avellana"
             }   
                 , 
-                "img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-                "howartsHouse": "Academia Mágica de Beaixbatons",
-                "patronus":"Desconocido",
+                "img": "https://static.wikia.nocookie.net/esharrypotter/images/2/20/BestmainimagejamespotterI.jpg/revision/latest/scale-to-width-down/333?cb=20150523213145",
+                "howartsHouse": "Gryffindor",
+                "patronus":"Ciervo",
                 "pet":[]
         },
         { 
             "id": 33,
-            "figure": "Fleur Isabelle Weasley",
-            "nickname": "Fleur",
-            "maritalStatus": "Casada con Bill Weasley",
-            "blood": "Cuarta parte Veela",
+            "figure": "Lily J. Potter",
+            "nickname": "Lily",
+            "maritalStatus": "Casado con James Potter",
+            "blood": "Sangre mestiza",
             "children": [
-                        "Victoire Weasley",
-                        "Dominique Weasley",
-                        "Louis Weasley"
+                       "Harry Potter"
             ],
                     
            "physicalphysicalDescription": 
                 {
                 "breed":"Humana",
                 "genres":"Femenino",
-                "hairColour":"Rubio platino",
-                "eyesColour":"Azules"
+                "hairColour":"Pelirrojo",
+                "eyesColour":"Verdes"
             }, 
-            "img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-            "howartsHouse": "Academia Mágica de Beaixbatons",
-            "patronus":"Desconocido",
+            "img": "https://static.wikia.nocookie.net/esharrypotter/images/c/ce/Lily_Potter1.jpg/revision/latest/scale-to-width-down/350?cb=20150523213225",
+            "howartsHouse": "Gryffindor",
+            "patronus":"Cierva",
             "pet":[]
         },
         { 
             "id": 34,
-            "figure": "Fleur Isabelle Weasley",
-            "nickname": "Fleur",
-            "maritalStatus": "Casada con Bill Weasley",
-            "blood": "Cuarta parte Veela",
-            "children": [
-                "Victoire Weasley",
-                "Dominique Weasley",
-                "Louis Weasley"
-            ],
+            "figure": "Alastor Moody",
+            "nickname": "Ojoloco",
+            "maritalStatus": "Soltero",
+            "blood": "Sangre pura",
+            "children": [],
                         
             "physicalphysicalDescription": 
                 {
-                "breed":"Humana",
-                "genres":"Femenino",
-                "hairColour":"Rubio platino",
-                "eyesColour":"Azules"
+                "breed":"Humano",
+                "genres":"Masculino",
+                "hairColour":"Rubio con canas",
+                "eyesColour":"Cafe y azul eléctrico (Ojo falso)"
             }, 
-            "img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-            "howartsHouse": "Academia Mágica de Beaixbatons",
-            "patronus":"Desconocido",
+            "img": "https://static.wikia.nocookie.net/esharrypotter/images/e/e2/P7_Alastor_Moody.png/revision/latest/scale-to-width-down/314?cb=20140728221051",
+            "howartsHouse": "Ravenclaw",
+            "patronus":"Ave Rapaz",
             "pet":[]
         },
         { 
             "id": 35,
-            "figure": "Fleur Isabelle Weasley",
-            "nickname": "Fleur",
-            "maritalStatus": "Casada con Bill Weasley",
-            "blood": "Cuarta parte Veela",
-            "children": [
-                "Victoire Weasley",
-                "Dominique Weasley",
-                "Louis Weasley"
-            ],
+            "figure": "Oliver Wood",
+            "nickname": "Oliver",
+            "maritalStatus": "Desconocido",
+            "blood": "Sangre Pura",
+            "children": [],
                             
             "physicalphysicalDescription": 
                 {
-                "breed":"Humana",
-                "genres":"Femenino",
-                "hairColour":"Rubio platino",
-                "eyesColour":"Azules"
+                "breed":"Humano",
+                "genres":"Masculino",
+                "hairColour":"Castaño",
+                "eyesColour":"Cafes"
             }, 
-            "img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-            "howartsHouse": "Academia Mágica de Beaixbatons",
+            "img": "https://i.pinimg.com/474x/08/99/62/0899620220b22fe7c2a3b8940afe08ea.jpg",
+            "howartsHouse": "Gryffindor",
             "patronus":"Desconocido",
             "pet":[]
         },
         {
             "id": 36,
-            "figure": "Fleur Isabelle Weasley",
-            "nickname": "Fleur",
-            "maritalStatus": "Casada con Bill Weasley",
-            "blood": "Cuarta parte Veela",
+            "figure": "Vernon Dursley",
+            "nickname": "Vernon",
+            "maritalStatus": "Casado con Petunia Dursley",
+            "blood": "Muggle",
             "children": [
-                "Victoire Weasley",
-                "Dominique Weasley",
-                "Louis Weasley"
+               "Dudley Dursley"
             ],
                             
             "physicalphysicalDescription": 
                 {
-                "breed":"Humana",
-                "genres":"Femenino",
-                "hairColour":"Rubio platino",
+                "breed":"Humano",
+                "genres":"Masculino",
+                "hairColour":"Gris",
                 "eyesColour":"Azules"
             }, 
-            "img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-            "howartsHouse": "Academia Mágica de Beaixbatons",
+            "img": "http://pm1.narvii.com/6198/1829eea4f2859441006b62935f87843af0f3ca30_00.jpg",
+            "howartsHouse": "",
             "patronus":"Desconocido",
             "pet":[]   
         },
@@ -1694,71 +1317,6 @@
             "patronus":"Desconocido",
             "pet":[]
         }
-    ],
-    "libros": [
-        {
-            "id": 1,
-            "libro": "Harry Potter y la piedra filosofal",
-            "titulo_original": "Harry Potter and the Sorcerer's Stone",
-            "fecha_de_lanzamiento": "26 de junio de 1997",
-            "autora": "J. K. Rowling",
-            "descripcion": "El día de su cumpleaños, Harry Potter descubre que es hijo de dos conocidos hechiceros, de los que ha heredado poderes mágicos. Debe asistir a una famosa escuela de magia y hechicería, donde entabla una amistad con dos jóvenes que se convertirán en sus compañeros de aventura. Durante su primer año en Hogwarts, descubre que un malévolo y poderoso mago llamado Voldemort está en busca de una piedra filosofal que alarga la vida de quien la posee."
-        },
-        {
-            "id": 2,
-            "libro": "Harry Potter y la cámara secreta",
-            "titulo_original": "Harry Potter and the chamber of secrets",
-            "fecha_de_lanzamiento": "2 de julio de 1998",
-            "autora": "J. K. Rowling",
-            "descripcion": "Harry Potter y los estudiantes de segundo año investigan una malévola amenaza para sus compañeros de clases de Hogwarts, una amenazante bestia que se esconde dentro del castillo."
-        },
-        {
-            "id": 3,
-            "libro": "Harry Potter y el prisionero de Azkaban",
-            "titulo_original": "Harry Potter and the Prisoner of Azkaban",
-            "fecha_de_lanzamiento": "8 de julio de 1999",
-            "autora": "J. K. Rowling",
-            "descripcion": "El tercer año de estudios de Harry en Hogwarts se ve amenazado por la fuga de Sirius Black de la prisión de Azkaban. Al parecer, se trata de un peligroso mago que fue cómplice de Lord Voldemort y que intentará vengarse de Harry Potter."
-        },
-        {
-            "id": 4,
-            "libro": "Harry Potter y el cáliz de fuego",
-            "titulo_original": "Harry Potter and the Goblet of Fire",
-            "fecha_de_lanzamiento": "8 de julio de 2000",
-            "autora": "J. K. Rowling",
-            "descripcion": "Hogwarts se prepara para el Torneo de los Tres Magos, en el que competirán tres escuelas de hechicería. Para sorpresa de todos, Harry Potter es elegido para participar en la competencia, en la que deberá luchar contra dragones, internarse en el agua y enfrentarse a sus mayores miedos."
-        },
-        {
-            "id": 5,
-            "libro": "Harry Potter y la orden del Fénix",
-            "titulo_original": "Harry Potter and the Order of the Phoenix",
-            "fecha_de_lanzamiento": "21 de junio de 2003",
-            "autora": "J. K. Rowling",
-            "descripcion": "En su quinto año en Hogwarts, Harry descubre que muchos integrantes de la comunidad de magos no conocen la verdad acerca de su encuentro con Lord Voldemort. Cornelius Fudge, ministro de magia, designa a Dolores Umbridge como maestra de defensa contra de las artes oscuras porque cree que el profesor Dumbledore planea apoderarse de su trabajo. Pero sus enseñanzas son inadecuadas, por lo que Harry prepara a los estudiantes para defender la escuela en contra del mal."
-        },
-        {
-            "id": 6,
-            "libro": "Harry Potter y el misterio del príncipe",
-            "titulo_original": "Harry Potter and the Half-Blood Prince",
-            "fecha_de_lanzamiento": "16 de julio de 2005",
-            "autora": "J. K. Rowling",
-            "descripcion": "Harry descubre un poderoso libro y, mientras trata de descubrir sus orígenes, colabora con Dumbledore en la búsqueda de una serie de objetos mágicos que ayudarán en la destrucción de Lord Voldemort."
-        },
-        {
-            "id": 7,
-            "libro": "Harry Potter y las reliquias de la muerte",
-            "titulo_original": "Harry Potter and the Deathly Hallows",
-            "fecha_de_lanzamiento": "21 de julio de 2007",
-            "autora": "J. K. Rowling",
-            "descripcion": "Harry, Ron y Hermione se van a una peligrosa misión para localizar y destruir el secreto de la inmortalidad y destrucción de Voldemort - los Horrocruces. Solos, sin la guía de sus profesores o la protección del Profesor Dumbledore, los tres amigos deben apoyarse el uno en el otro más que nunca. Pero hay Fuerzas Oscuras en medio que amenazan con separarlos. Harry Potter se está acercando cada vez más a la tarea para la que se ha preparado desde el primer día que pisó Hogwarts: la última batalla con Voldemort."
-        },
-        {
-            "id": 8,
-            "libro": "Harry Potter y el legado maldito",
-            "titulo_original": "Harry Potter and the Cursed Child",
-            "fecha_de_lanzamiento": "30 de julio de 2016",
-            "autora": "J. K. Rowling",
-            "descripcion": "El segundo hijo de Harry entró a Hogwarts, pero en Slytherin. Su relación con Harry cada vez es peor y se hizo muy amigo del hijo de Draco, Scorpius Malfoy que se dice que es el hijo de Lord Voldemort"
-        }
     ]
+    
 }
