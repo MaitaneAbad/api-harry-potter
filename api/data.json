@@ -30,7 +30,7 @@
 			"figure": "Hermione Jean Granger",
 			"nickname": "Hermione",
 			"maritalStatus": "Casada con Ron Weasley",
-			"blood": "Hija de muggles",
+			"blood": "Sangre mestiza",
 			"children": [
 				"Hugo Granger-Weasley",
 				"Rose Granger-Weasley"
@@ -94,7 +94,7 @@
 			"img": "ttps://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/fred_weasley.png",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Urraca",
-			"pet": [{}]
+			"pet": []
 		},
 		{
 			"id": 5,
@@ -280,7 +280,7 @@
 			"id": 13,
 			"figure": "Luna Lovegood",
 			"nickname": "Luna",
-			"maritalStatus": "Desconocido",
+			"maritalStatus": "casada con Rolf Scamander",
 			"blood": "Sangre pura",
 			"children": [],
 			"physicalDescription": {
@@ -762,446 +762,337 @@
 			},
 			"img": "http://pm1.narvii.com/6198/1829eea4f2859441006b62935f87843af0f3ca30_00.jpg",
 			"howartsHouse": "",
-			"patronus": "Desconocido",
+			"patronus": "",
 			"pet": []
 		},
 		{
 			"id": 37,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
+			"figure": "Petunia Dursley",
+			"nickname": "Petunia",
+			"maritalStatus": "Casada Vernon Durley",
+			"blood": "Muggle",
 			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
+				"Dudley Dursley"
 			],
 
 			"physicalphysicalDescription": {
 				"breed": "Humana",
 				"genres": "Femenino",
-				"hairColour": "Rubio platino",
-				"eyesColour": "Azules"
+				"hairColour": "Castaño",
+				"eyesColour": "Café"
 			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
-			"patronus": "Desconocido",
+			"img": "https://static.wikia.nocookie.net/doblaje/images/1/16/HPPetuniaDursley.jpg/revision/latest?cb=20160125012622&path-prefix=es",
+			"howartsHouse": "",
+			"patronus": "",
 			"pet": []
 		},
 		{
 			"id": 38,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
-			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
-			],
+			"figure": "Sybill Patricia Trelawney",
+			"nickname": "Sybill Trelawney",
+			"maritalStatus": "Soltera",
+			"blood": "Sangre mestiza",
+			"children": [],
 
 			"physicalphysicalDescription": {
 				"breed": "Humana",
 				"genres": "Femenino",
-				"hairColour": "Rubio platino",
-				"eyesColour": "Azules"
+				"hairColour": "Castaño",
+				"eyesColour": "Verdes"
 			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
-			"patronus": "Desconocido",
+			"img": "https://static.wikia.nocookie.net/doblaje/images/c/c5/HSybillTrelawney.jpg/revision/latest?cb=20160125013704&path-prefix=es",
+			"howartsHouse": "Ravenclaw",
+			"patronus": "No corpóreo",
 			"pet": []
 		},
 		{
 			"id": 39,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
-			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
-			],
+			"figure": "Myrtle Elizabeth Warren",
+			"nickname": "Myrtle, La llorona",
+			"maritalStatus": "Solteroa",
+			"blood": "Sangre mestiza",
+			"children": [],
 
 			"physicalphysicalDescription": {
-				"breed": "Humana",
+				"breed": "Fantasma",
 				"genres": "Femenino",
-				"hairColour": "Rubio platino",
-				"eyesColour": "Azules"
+				"hairColour": "Negro",
+				"eyesColour": "Negros"
 			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
+			"img": "https://static.wikia.nocookie.net/esharrypotter/images/c/cf/250px-Myrtle1.png/revision/latest/scale-to-width-down/250?cb=20101122080924",
+			"howartsHouse": "Ravenclaw",
 			"patronus": "Desconocido",
 			"pet": []
 		},
 		{
 			"id": 40,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
-			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
-			],
+			"figure": "Seamus Finnigan",
+			"nickname": "Finnigan",
+			"maritalStatus": "Desconocido",
+			"blood": "Sangre mestiza",
+			"children": [],
 
 			"physicalphysicalDescription": {
-				"breed": "Humana",
-				"genres": "Femenino",
-				"hairColour": "Rubio platino",
-				"eyesColour": "Azules"
+				"breed": "Humano",
+				"genres": "Masculino",
+				"hairColour": "Castaño claro",
+				"eyesColour": "Marrones"
 			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
-			"patronus": "Desconocido",
+			"img": "https://static.wikia.nocookie.net/esharrypotter/images/f/f1/Seamuss.jpg/revision/latest/scale-to-width-down/450?cb=20111109201608",
+			"howartsHouse": "Gryffindor",
+			"patronus": "Raposa",
 			"pet": []
 		},
 		{
 			"id": 41,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
-			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
-			],
+			"figure": "Gilderoy Lockhart",
+			"nickname": "Lockhart",
+			"maritalStatus": "Soltero",
+			"blood": "Sangre mestiza",
+			"children": [],
 
 			"physicalphysicalDescription": {
-				"breed": "Humana",
-				"genres": "Femenino",
-				"hairColour": "Rubio platino",
+				"breed": "Humano",
+				"genres": "Masculino",
+				"hairColour": "Rubio",
 				"eyesColour": "Azules"
 			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
-			"patronus": "Desconocido",
+			"img": "http://pm1.narvii.com/6241/125997c9492eb24410bd4915bade390f948443a8_00.jpg",
+			"howartsHouse": "Ravenclaw",
+			"patronus": "No corpórep",
 			"pet": []
 		},
 		{
 			"id": 42,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
-			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
-			],
+			"figure": "Cedric Diggory",
+			"nickname": "Cedric",
+			"maritalStatus": "Soltero",
+			"blood": "Sangre Pura",
+			"children": [],
 
 			"physicalphysicalDescription": {
-				"breed": "Humana",
-				"genres": "Femenino",
-				"hairColour": "Rubio platino",
-				"eyesColour": "Azules"
+				"breed": "Humano",
+				"genres": "Masculino",
+				"hairColour": "Castaño",
+				"eyesColour": "Grises"
 			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
+			"img": "https://static.wikia.nocookie.net/esharrypotter/images/c/cf/Cedric-Diggory-promo-pics-hufflepuff-28197938-365-520.jpg/revision/latest/scale-to-width-down/251?cb=20150523213517",
+			"howartsHouse": "Hafflepuff",
 			"patronus": "Desconocido",
 			"pet": []
 		},
 		{
 			"id": 43,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
-			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
-			],
+			"figure": "Cho Chang",
+			"nickname": "Cho",
+			"maritalStatus": "Casada con un muggle",
+			"blood": "Sangre pura o mestiza",
+			"children": [],
 
 			"physicalphysicalDescription": {
 				"breed": "Humana",
 				"genres": "Femenino",
-				"hairColour": "Rubio platino",
-				"eyesColour": "Azules"
+				"hairColour": "Negro",
+				"eyesColour": "Negros"
 			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
-			"patronus": "Desconocido",
+			"img": "https://static.wikia.nocookie.net/esharrypotter/images/8/81/P5_Cho_Chang.jpg/revision/latest/top-crop/width/360/height/450?cb=20070718014506",
+			"howartsHouse": "Ravenclaw",
+			"patronus": "Cisne",
 			"pet": []
 		},
 		{
 			"id": 44,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
-			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
-			],
+			"figure": "Viktor Krum",
+			"nickname": "Viktor",
+			"maritalStatus": "Casado",
+			"blood": "Sangre pura o mestiza",
+			"children": [],
 
 			"physicalphysicalDescription": {
-				"breed": "Humana",
-				"genres": "Femenino",
-				"hairColour": "Rubio platino",
-				"eyesColour": "Azules"
+				"breed": "Humano",
+				"genres": "Masculino",
+				"hairColour": "Negro",
+				"eyesColour": "Negros"
 			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
+			"img": "https://static.wikia.nocookie.net/harrypotter/images/9/93/Viktor_Krum_promo_Yule_Ball.png/revision/latest?cb=20120207173113",
+			"howartsHouse": "Instituto Durmstrang",
 			"patronus": "Desconocido",
 			"pet": []
 		},
 		{
 			"id": 45,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
-			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
-			],
+			"figure": "Rita Skeeter",
+			"nickname": "Rita",
+			"maritalStatus": "Desconocido",
+			"blood": "Sangre pura o mestiza",
+			"children": [],
 
 			"physicalphysicalDescription": {
-				"breed": "Humana",
+				"breed": "Animago",
 				"genres": "Femenino",
 				"hairColour": "Rubio platino",
-				"eyesColour": "Azules"
+				"eyesColour": "Verdes"
 			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
+			"img": "https://static.wikia.nocookie.net/esharrypotter/images/e/e5/Skeeter_Trial.jpg/revision/latest/scale-to-width-down/643?cb=20100803233633",
+			"howartsHouse": "Desconocido",
 			"patronus": "Desconocido",
 			"pet": []
 		},
 		{
 			"id": 46,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
-			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
-			],
+			"figure": "Garrick Ollivander",
+			"nickname": "Sr. Ollivander",
+			"maritalStatus": "Casado",
+			"blood": "Sangre mestiza",
+			"children": [],
 
 			"physicalphysicalDescription": {
-				"breed": "Humana",
-				"genres": "Femenino",
-				"hairColour": "Rubio platino",
-				"eyesColour": "Azules"
+				"breed": "Humano",
+				"genres": "Masculino",
+				"hairColour": "Blanco",
+				"eyesColour": "Grises"
 			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
+			"img": "https://static.wikia.nocookie.net/esharrypotter/images/7/78/P1_Garrick_Ollivander.png/revision/latest?cb=20081113212407",
+			"howartsHouse": "Ravenclaw",
 			"patronus": "Desconocido",
 			"pet": []
 		},
 		{
 			"id": 47,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
+			"figure": "Xenophilius Lovegood",
+			"nickname": "Xeno",
+			"maritalStatus": "Casado con Pandora Lovegood",
+			"blood": "Sangre pura o mestiza",
 			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
+				"Luna Lovegood"
 			],
 
 			"physicalphysicalDescription": {
-				"breed": "Humana",
-				"genres": "Femenino",
-				"hairColour": "Rubio platino",
-				"eyesColour": "Azules"
+				"breed": "Humano",
+				"genres": "Masculino",
+				"hairColour": "Blanco",
+				"eyesColour": "Marrones"
 			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
+			"img": "https://static.wikia.nocookie.net/hpfanon/images/9/93/Xenophilius_Lovegood.JPG/revision/latest?cb=20191108171502&path-prefix=es",
+			"howartsHouse": "Ravenclaw",
 			"patronus": "Desconocido",
 			"pet": []
 		},
 		{
 			"id": 48,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
-			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
-			],
+			"figure": "Bartemius Crouch Jr",
+			"nickname": "Barty",
+			"maritalStatus": "Soltero",
+			"blood": "Sangre pura",
+			"children": [],
 
 			"physicalphysicalDescription": {
-				"breed": "Humana",
-				"genres": "Femenino",
-				"hairColour": "Rubio platino",
-				"eyesColour": "Azules"
+				"breed": "Humano",
+				"genres": "Masculino",
+				"hairColour": "Rubio",
+				"eyesColour": "Marrones"
 			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
+			"img": "https://pbs.twimg.com/media/Erz0C3FXMAI_lCY.jpg",
+			"howartsHouse": "Desconocido",
 			"patronus": "Desconocido",
 			"pet": []
 		},
 		{
 			"id": 49,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
-			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
-			],
+			"figure": "Cornelius Oswald Fudge",
+			"nickname": "Cornelius",
+			"maritalStatus": "Casado",
+			"blood": "Sangre pura",
+			"children": [],
 
 			"physicalphysicalDescription": {
-				"breed": "Humana",
-				"genres": "Femenino",
-				"hairColour": "Rubio platino",
-				"eyesColour": "Azules"
+				"breed": "Humano",
+				"genres": "Masculino",
+				"hairColour": "Rubio",
+				"eyesColour": "Grises"
 			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
+			"img": "https://static.wikia.nocookie.net/esharrypotter/images/e/e6/Cornelius_Fudge_1994_.jpg/revision/latest?cb=20150228090100",
+			"howartsHouse": "Desconocido",
 			"patronus": "Desconocido",
 			"pet": []
 		},
 		{
 			"id": 50,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
-			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
-			],
+			"figure": "Horace E. F. Slughorn",
+			"nickname": "Horace o Sluggy",
+			"maritalStatus": "Desconocido",
+			"blood": "Sangre pura",
+			"children": [],
 
 			"physicalphysicalDescription": {
-				"breed": "Humana",
-				"genres": "Femenino",
-				"hairColour": "Rubio platino",
+				"breed": "Humano",
+				"genres": "Masculino",
+				"hairColour": "Rubio - calvo",
 				"eyesColour": "Azules"
 			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
+			"img": "https://static.wikia.nocookie.net/esharrypotter/images/a/a1/Horace_Slughorn_%28HBP_promo%29_1-1.jpg/revision/latest?cb=20131218235843",
+			"howartsHouse": "Slytherin",
 			"patronus": "Desconocido",
 			"pet": []
 		},
 		{
 			"id": 51,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
-			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
-			],
+			"figure": "Fenrir Greyback",
+			"nickname": "Greyback",
+			"maritalStatus": "Desconocido",
+			"blood": "Sangre pura o mestiza",
+			"children": [],
 
 			"physicalphysicalDescription": {
-				"breed": "Humana",
-				"genres": "Femenino",
-				"hairColour": "Rubio platino",
-				"eyesColour": "Azules"
+				"breed": "Hombre Lobo",
+				"genres": "Masculino",
+				"hairColour": "Negro",
+				"eyesColour": "Negros"
 			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
+			"img": "https://2.bp.blogspot.com/-dji-I8w6zkE/Wd492ZVQPdI/AAAAAAAA2cg/ndtP21BsuI0nFBXp8Ngie3Ir41fluLcsgCLcBGAs/s1600/Fenrirgreyback.png",
+			"howartsHouse": "Slytherin",
 			"patronus": "Desconocido",
 			"pet": []
 		},
 		{
 			"id": 52,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
-			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
-			],
+			"figure": "Kingsley Shacklebolt",
+			"nickname": "Regio",
+			"maritalStatus": "Desconocido",
+			"blood": "Sangre pura",
+			"children": [],
 
 			"physicalphysicalDescription": {
-				"breed": "Humana",
-				"genres": "Femenino",
-				"hairColour": "Rubio platino",
-				"eyesColour": "Azules"
+				"breed": "Humano",
+				"genres": "Masculino",
+				"hairColour": "Calvo",
+				"eyesColour": "Marrones"
 			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
-			"patronus": "Desconocido",
+			"img": "https://static.wikia.nocookie.net/doblaje/images/b/ba/KingsleyShakleboltHarryPootter02.png/revision/latest?cb=20190706083552&path-prefix=es",
+			"howartsHouse": "Gryffindor",
+			"patronus": "Lince",
 			"pet": []
 		},
 		{
 			"id": 53,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
-			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
-			],
+			"figure": "Rufus Scrimgeour",
+			"nickname": "Rufus",
+			"maritalStatus": "Desconocido",
+			"blood": "Sangre pura",
+			"children": [],
 
 			"physicalphysicalDescription": {
-				"breed": "Humana",
-				"genres": "Femenino",
-				"hairColour": "Rubio platino",
-				"eyesColour": "Azules"
+				"breed": "Humano",
+				"genres": "Masculino",
+				"hairColour": "Negro",
+				"eyesColour": "Amarillos"
 			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
-			"patronus": "Desconocido",
-			"pet": []
-		},
-		{
-			"id": 54,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
-			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
-			],
-
-			"physicalphysicalDescription": {
-				"breed": "Humana",
-				"genres": "Femenino",
-				"hairColour": "Rubio platino",
-				"eyesColour": "Azules"
-			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
-			"patronus": "Desconocido",
-			"pet": []
-		},
-		{
-			"id": 55,
-			"figure": "Fleur Isabelle Weasley",
-			"nickname": "Fleur",
-			"maritalStatus": "Casada con Bill Weasley",
-			"blood": "Cuarta parte Veela",
-			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
-				"Louis Weasley"
-			],
-
-			"physicalphysicalDescription": {
-				"breed": "Humana",
-				"genres": "Femenino",
-				"hairColour": "Rubio platino",
-				"eyesColour": "Azules"
-			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
-			"howartsHouse": "Academia Mágica de Beaixbatons",
+			"img": "https://static.wikia.nocookie.net/hpfanon/images/7/7f/Rufus_Scrimgeour.JPG/revision/latest?cb=20191123190452&path-prefix=es",
+			"howartsHouse": "Desconocido",
 			"patronus": "Desconocido",
 			"pet": []
 		}
+		
 	]
 
 }
