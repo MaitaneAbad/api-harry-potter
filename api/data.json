@@ -32,8 +32,8 @@
 			"maritalStatus": "Casada con Ron Weasley",
 			"blood": "Sangre mestiza",
 			"children": [
-				"Hugo Granger-Weasley",
-				"Rose Granger-Weasley"
+				"Hugo Granger-Weasley ",
+				"Rose Granger-Weasley "
 			],
 			"physicalDescription": {
 				"breed": "Humano",
@@ -56,8 +56,8 @@
 			"maritalStatus": "Casada con Hermione Granger",
 			"blood": "Sangre pura",
 			"children": [
-				"Hugo Granger-Weasley",
-				"Rose Granger-Weasley"
+				"Hugo Granger-Weasley ",
+				"Rose Granger-Weasley "
 			],
 			"physicalDescription": {
 				"breed": "Humano",
@@ -121,8 +121,8 @@
 			"maritalStatus": "Casado con Fleur Isabelle Delacour",
 			"blood": "Sangre pura",
 			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
+				"Victoire Weasley ",
+				"Dominique Weasley ",
 				"Louis Weasley"
 			],
 			"physicalDescription": {
@@ -145,8 +145,8 @@
 			"maritalStatus": "Casada con Hermione Granger",
 			"blood": "Sangre pura",
 			"children": [
-				"Hugo Granger-Weasley",
-				"Rose Granger-Weasley"
+				"Hugo Granger-Weasley ",
+				"Rose Granger-Weasley "
 			],
 			"physicalDescription": {
 				"breed": "Humano",
@@ -186,8 +186,8 @@
 			"maritalStatus": "Casada con Harry Potter",
 			"blood": "Sangre pura",
 			"children": [
-				"James Sirius Potter",
-				"Albus Severus Potter",
+				"James Sirius Potter ",
+				"Albus Severus Potter ",
 				"Lily Luna Potter"
 			],
 			"physicalDescription": {
@@ -211,12 +211,12 @@
 			"maritalStatus": "Casada con Arthur Weasley",
 			"blood": "Sangre pura",
 			"children": [
-				"Ron Weasley",
-				"Bill Weasley",
-				"Charlie Weasley",
-				"Percy Weasley",
-				"Fred Weasley",
-				"Geaorge Weasley",
+				"Ron Weasley ",
+				"Bill Weasley ",
+				"Charlie Weasley ",
+				"Percy Weasley ",
+				"Fred Weasley ",
+				"Geaorge Weasley ",
 				"Ginny Weasley"
 			],
 			"physicalDescription": {
@@ -234,12 +234,12 @@
 			"maritalStatus": "Casado con Molly Weasley",
 			"blood": "Sangre pura",
 			"children": [
-				"Ron Weasley",
-				"Bill Weasley",
-				"Charlie Weasley",
-				"Percy Weasley",
-				"Fred Weasley",
-				"Geaorge Weasley",
+				"Ron Weasley ",
+				"Bill Weasley ",
+				"Charlie Weasley ",
+				"Percy Weasley ",
+				"Fred Weasley ",
+				"Geaorge Weasley  ",
 				"Ginny Weasley"
 			],
 			"physicalDescription": {
@@ -648,8 +648,8 @@
 			"maritalStatus": "Casada con Bill Weasley",
 			"blood": "Cuarta parte Veela",
 			"children": [
-				"Victoire Weasley",
-				"Dominique Weasley",
+				"Victoire Weasley ",
+				"Dominique Weasley ",
 				"Louis Weasley"
 			],
 
