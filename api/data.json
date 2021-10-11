@@ -3,7 +3,7 @@
 			"id": 1,
 			"figure": "Harry James Potter",
 			"nickname": "Harry",
-			"maritalStatus": "Casado con Ginevra Potter ( de soltera Weasley",
+			"maritalStatus": "Casado con Ginevra Potter (de soltera Weasley)",
 			"blood": "Sangre mestiza",
 			"children": [
 				"James Sirius Potter",
@@ -91,7 +91,7 @@
 				"hairColour": "Pelirrojo",
 				"eyesColour": "Negro"
 			},
-			"img": "ttps://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/fred_weasley.png",
+			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/fred_weasley.png",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Urraca",
 			"pet": []
