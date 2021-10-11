@@ -17,7 +17,7 @@
 				"hairColour": "Negro azabache",
 				"eyesColour": "verde / Azul (películas)"
 			},
-			"img": "../images/HarryPotter.png",
+			"img": "./images/HarryPotter.png",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Ciervo",
 			"pet": [{
