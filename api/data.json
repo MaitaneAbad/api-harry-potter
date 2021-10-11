@@ -17,7 +17,7 @@
 				"hairColour": "Negro azabache",
 				"eyesColour": "verde / Azul (películas)"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/harry_potter.png",
+			"img": "../images/HarryPotter.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Ciervo",
 			"pet": [{
