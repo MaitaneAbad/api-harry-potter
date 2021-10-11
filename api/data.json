@@ -11,7 +11,7 @@
 				"Lily Luna Potter"
 			],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Negro azabache",
@@ -35,7 +35,7 @@
 				"Hugo Granger-Weasley",
 				"Rose Granger-Weasley"
 			],
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Femenino",
 				"hairColour": "Castaño",
@@ -59,7 +59,7 @@
 				"Hugo Granger-Weasley",
 				"Rose Granger-Weasley"
 			],
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Pelirrojo",
@@ -85,7 +85,7 @@
 			"maritalStatus": "",
 			"blood": "Sangre pura",
 			"children": [],
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Pelirrojo",
@@ -103,7 +103,7 @@
 			"maritalStatus": "Casado con Angelina Johnson",
 			"blood": "Sangre pura",
 			"children": [],
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Pelirrojo",
@@ -125,7 +125,7 @@
 				"Dominique Weasley",
 				"Louis Weasley"
 			],
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Pelirrojo",
@@ -148,7 +148,7 @@
 				"Hugo Granger-Weasley",
 				"Rose Granger-Weasley"
 			],
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Pelirrojo / Canoso",
@@ -168,7 +168,7 @@
 			"maritalStatus": "Soltero",
 			"blood": "Sangre pura",
 			"children": [],
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Pelirrojo",
@@ -510,7 +510,7 @@
 			"blood": "Elfo Librea",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Elfo",
 				"genres": "Masculino",
 				"hairColour": "Carece",
@@ -529,7 +529,7 @@
 			"blood": "Sangre mestiza",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Femenino",
 				"hairColour": "Castaño",
@@ -548,7 +548,7 @@
 			"blood": "Sangre pura o mestiza",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Marrón, después calvo",
@@ -569,7 +569,7 @@
 				"Draco Malfoy"
 			],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Rubio ",
@@ -590,7 +590,7 @@
 				"Draco Malfoy"
 			],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Femenino",
 				"hairColour": "Rubio",
@@ -611,7 +611,7 @@
 				"Edward Remus Lupin"
 			],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humana (metamorfomaga)",
 				"genres": "Femenino",
 				"hairColour": "Rosa o morado",
@@ -630,7 +630,7 @@
 			"blood": "Muggle",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Negro azabache",
@@ -653,7 +653,7 @@
 				"Louis Weasley"
 			],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humana",
 				"genres": "Femenino",
 				"hairColour": "Rubio platino",
@@ -674,7 +674,7 @@
 				"Harry Potter"
 			],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Negro",
@@ -695,7 +695,7 @@
 				"Harry Potter"
 			],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humana",
 				"genres": "Femenino",
 				"hairColour": "Pelirrojo",
@@ -714,7 +714,7 @@
 			"blood": "Sangre pura",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Rubio con canas",
@@ -733,7 +733,7 @@
 			"blood": "Sangre Pura",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Castaño",
@@ -754,7 +754,7 @@
 				"Dudley Dursley"
 			],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Gris",
@@ -775,7 +775,7 @@
 				"Dudley Dursley"
 			],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humana",
 				"genres": "Femenino",
 				"hairColour": "Castaño",
@@ -794,7 +794,7 @@
 			"blood": "Sangre mestiza",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humana",
 				"genres": "Femenino",
 				"hairColour": "Castaño",
@@ -813,7 +813,7 @@
 			"blood": "Sangre mestiza",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Fantasma",
 				"genres": "Femenino",
 				"hairColour": "Negro",
@@ -832,7 +832,7 @@
 			"blood": "Sangre mestiza",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Castaño claro",
@@ -851,7 +851,7 @@
 			"blood": "Sangre mestiza",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Rubio",
@@ -870,7 +870,7 @@
 			"blood": "Sangre Pura",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Castaño",
@@ -889,7 +889,7 @@
 			"blood": "Sangre pura o mestiza",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humana",
 				"genres": "Femenino",
 				"hairColour": "Negro",
@@ -908,7 +908,7 @@
 			"blood": "Sangre pura o mestiza",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Negro",
@@ -927,7 +927,7 @@
 			"blood": "Sangre pura o mestiza",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Animago",
 				"genres": "Femenino",
 				"hairColour": "Rubio platino",
@@ -946,7 +946,7 @@
 			"blood": "Sangre mestiza",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Blanco",
@@ -967,7 +967,7 @@
 				"Luna Lovegood"
 			],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Blanco",
@@ -986,7 +986,7 @@
 			"blood": "Sangre pura",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Rubio",
@@ -1005,7 +1005,7 @@
 			"blood": "Sangre pura",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Rubio",
@@ -1024,7 +1024,7 @@
 			"blood": "Sangre pura",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Rubio - calvo",
@@ -1043,7 +1043,7 @@
 			"blood": "Sangre pura o mestiza",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Hombre Lobo",
 				"genres": "Masculino",
 				"hairColour": "Negro",
@@ -1062,7 +1062,7 @@
 			"blood": "Sangre pura",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Calvo",
@@ -1081,7 +1081,7 @@
 			"blood": "Sangre pura",
 			"children": [],
 
-			"physicalphysicalDescription": {
+			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
 				"hairColour": "Negro",
