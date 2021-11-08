@@ -17,12 +17,12 @@
 				"hairColour": "Negro azabache",
 				"eyesColour": "verde / Azul (películas)"
 			},
-			"img": "./images/HarryPotter.png",
+			"img": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/H6EVVQXWIFGMLANYWNEIDWP2AI.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Ciervo",
 			"pet": [{
 				"name": "Hedwig",
-				"imgPet": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/H6EVVQXWIFGMLANYWNEIDWP2AI.jpg"
+				"imgPet": "http://pm1.narvii.com/6625/2a45439b9d0c41631c9d4d0c0635f886ec217085_00.jpg"
 			}]
 		},
 		{
