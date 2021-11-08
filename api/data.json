@@ -20,9 +20,9 @@
 			"img": "https://cinemagavia.es/wp-content/uploads/2020/09/Saga-Harry-Potter-5-696x449.jpeg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Ciervo",
-			"pet": [{
+			"": [{
 				"name": "Hedwig",
-				"imgPet": "http://pm1.narvii.com/6625/2a45439b9d0c41631c9d4d0c0635f886ec217085_00.jpg"
+				"img": "http://pm1.narvii.com/6625/2a45439b9d0c41631c9d4d0c0635f886ec217085_00.jpg"
 			}]
 		},
 		{
@@ -43,11 +43,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/hermione_granger.png",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Nutria",
-			"pet": [{
-				"name": "Crookshanks ",
-				"imgPet": "https://static.wikia.nocookie.net/esharrypotter/images/b/b9/Crookshanks_Sitting-A_Half-Kneazle.jpg/revision/latest/scale-to-width-down/180?cb=20110601174857"
-			}]
+			"patronus": "Nutria"
+			
 		},
 		{
 			"id": 3,
@@ -67,16 +64,7 @@
 			},
 			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/ron_weasley.png",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Jack Rusell Terrier",
-			"pet": [{
-					"name": "Pigwidgeon ",
-					"imgPet": "https://static.wikia.nocookie.net/esharrypotter/images/4/49/Pig.jpg/revision/latest?cb=20120118152104"
-				},
-				{
-					"name": "Scabber ",
-					"imgPet": "http://pm1.narvii.com/6258/7798bd71d365eaa7501ed9f4d14a5157f8a8dc8d_00.jpg"
-				}
-			]
+			"patronus": "Jack Rusell Terrier"
 		},
 		{
 			"id": 4,
@@ -93,8 +81,7 @@
 			},
 			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/fred_weasley.png",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Urraca",
-			"pet": []
+			"patronus": "Urraca"
 		},
 		{
 			"id": 5,
@@ -111,8 +98,7 @@
 			},
 			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/george_weasley.png",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Urraca",
-			"pet": []
+			"patronus": "Urraca"
 		},
 		{
 			"id": 6,
@@ -133,10 +119,7 @@
 			},
 			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/bill_weasley.png",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Desconocido",
-			"pet": [
-
-			]
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 7,
@@ -156,10 +139,7 @@
 			},
 			"img": "http://pm1.narvii.com/6869/4b691880f46490b9c3cd9a6fe4789d5197c4682er1-715-701v2_uhq.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Desconocido",
-			"pet": [
-
-			]
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 8,
@@ -176,8 +156,7 @@
 			},
 			"img": "https://i.pinimg.com/736x/fa/92/6f/fa926fa87a0c73082e7a674b7d1491b4.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 9,
@@ -198,11 +177,7 @@
 			},
 			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/ginny_weasley.png",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Caballo",
-			"pet": [{
-				"name": "Arnold ",
-				"imgPet": "https://static.wikia.nocookie.net/esharrypotter/images/d/dd/Pygmy_puff_ginny.jpg/revision/latest/top-crop/width/360/height/450?cb=20150201183010"
-			}]
+			"patronus": "Caballo"
 		},
 		{
 			"id": 10,
@@ -250,8 +225,7 @@
 			},
 			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/arthur_weasley.png",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Comadreja",
-			"pet": []
+			"patronus": "Comadreja"
 		},
 		{
 			"id": 12,
@@ -268,13 +242,7 @@
 			},
 			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/neville_longbottom.png",
 			"howartsHouse": "Gryffindor",
-			"patronus": "No corpóreo",
-			"pet": [{
-					"name": "Trevor",
-					"imgPet": "https://static.wikia.nocookie.net/esharrypotter/images/5/5a/Trevor.jpg/revision/latest/scale-to-width-down/577?cb=20180519210636"
-				}
-
-			]
+			"patronus": "No corpóreo"
 		},
 		{
 			"id": 13,
@@ -291,11 +259,7 @@
 			},
 			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/luna_lovegood.png",
 			"howartsHouse": "Ravenclaw",
-			"patronus": "Liebre",
-			"pet": [{
-				"name": "Blibbering Humdinger "
-
-			}]
+			"patronus": "Liebre"
 		},
 		{
 			"id": 14,
@@ -314,11 +278,7 @@
 			},
 			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/draco_malfoy.png",
 			"howartsHouse": "Slytherin",
-			"patronus": "Desconocido",
-			"pet": [{
-				"name": "Desconocido ",
-				"imgPet": "https://static.wikia.nocookie.net/esharrypotter/images/b/b1/Buhoreal.png/revision/latest?cb=20180409051038"
-			}]
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 15,
@@ -335,16 +295,7 @@
 			},
 			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/albus_dumbledore.png",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Fénix",
-			"pet": [{
-					"name": "Pigwidgeon ",
-					"imgPet": "https://static.wikia.nocookie.net/esharrypotter/images/4/49/Pig.jpg/revision/latest?cb=20120118152104"
-				},
-				{
-					"name": "Scabber ",
-					"imgPet": "http://pm1.narvii.com/6258/7798bd71d365eaa7501ed9f4d14a5157f8a8dc8d_00.jpg"
-				}
-			]
+			"patronus": "Fénix"
 		},
 		{
 			"id": 16,
@@ -361,10 +312,7 @@
 			},
 			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/minerva_mcgonnagall.png",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Gato",
-			"pet": [
-
-			]
+			"patronus": "Gato"
 		},
 		{
 			"id": 17,
@@ -383,8 +331,7 @@
 			},
 			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/remus_lupin.png",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Lobo",
-			"pet": []
+			"patronus": "Lobo"
 		},
 		{
 			"id": 18,
@@ -401,8 +348,7 @@
 			},
 			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/rubeus_hagrid.png",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 19,
@@ -419,8 +365,7 @@
 			},
 			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/sirius_black.png",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Perro",
-			"pet": []
+			"patronus": "Perro"
 		},
 		{
 			"id": 20,
@@ -437,8 +382,7 @@
 			},
 			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/severus_snape.png",
 			"howartsHouse": "Slytherin",
-			"patronus": "Cierva",
-			"pet": []
+			"patronus": "Cierva"
 		},
 		{
 			"id": 21,
@@ -457,8 +401,7 @@
 			},
 			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/bellatrix_lestrange.png",
 			"howartsHouse": "Slytherin",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 
 		},
 		{
@@ -478,8 +421,7 @@
 			},
 			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/lord_voldemort.png",
 			"howartsHouse": "Slytherin",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 23,
@@ -496,11 +438,7 @@
 			},
 			"img": "https://pm1.narvii.com/6486/c02bfc7d5605bec3b42c7870e26c26e71b3fbf46_hq.jpg",
 			"howartsHouse": "Ninguna",
-			"patronus": "Desconocido",
-			"pet": [{
-				"name": "Sra Norris ",
-				"imgPet": "https://es.web.img3.acsta.net/r_1280_720/newsv7/16/07/07/08/46/5046120.jpg"
-			}]
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 24,
@@ -518,8 +456,7 @@
 			},
 			"img": "https://www.elsoldemexico.com.mx/cultura/cine/v5w7vk-dobby-especial.jpg/ALTERNATES/LANDSCAPE_960/Dobby%20ESPECIAL.jpg",
 			"howartsHouse": "",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 25,
@@ -537,12 +474,11 @@
 			},
 			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAkEUbYwHz4OV8tbW0hjusNfP0osU4p7hM_w&usqp=CAU",
 			"howartsHouse": "Slytherin",
-			"patronus": "Gato de pelo largo",
-			"pet": []
+			"patronus": "Gato de pelo largo"
 		},
 		{
 			"id": 26,
-			"figure": "Peter Pettigrew",
+			"figure": "er tigrew",
 			"nickname": "Colagusano o Scabbers (por la familia Weasley)",
 			"maritalStatus": "Desconocido",
 			"blood": "Sangre pura o mestiza",
@@ -556,8 +492,7 @@
 			},
 			"img": "https://los40es00.epimg.net/los40/imagenes/2020/05/11/cinetv/1589207687_643449_1589207762_noticia_normal.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Ninguno",
-			"pet": []
+			"patronus": "Ninguno"
 		},
 		{
 			"id": 27,
@@ -577,8 +512,7 @@
 			},
 			"img": "https://areajugones.sport.es/wp-content/uploads/2017/10/Jason-Isaacs-Lucius-Malfoy.jpg",
 			"howartsHouse": "Slytherin",
-			"patronus": "Ninguno",
-			"pet": []
+			"patronus": "Ninguno"
 		},
 		{
 			"id": 28,
@@ -598,8 +532,7 @@
 			},
 			"img": "https://image.europafm.com/clipping/cmsimages01/2021/04/17/1F4217D6-FDA2-4860-A39F-54312E645080/98.jpg?crop=1600,900,x0,y0&width=1900&height=1069&optimize=high&format=webply",
 			"howartsHouse": "Slytherin",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 29,
@@ -619,8 +552,7 @@
 			},
 			"img": "https://4.bp.blogspot.com/-ScVi2OM3cuc/WFaSjsagQFI/AAAAAAAAWhc/9QdaPY4Uk9QI5x-H1BMkbomS-f7wSdc5QCLcB/s1600/nymphadora%2Bharrypotterdiagon.jpg",
 			"howartsHouse": "Hufflepuff",
-			"patronus": "Liebre y lobo",
-			"pet": []
+			"patronus": "Liebre y lobo"
 		},
 		{
 			"id": 30,
@@ -638,8 +570,7 @@
 			},
 			"img": "https://quecosplayhago.files.wordpress.com/2012/06/dudley.jpg",
 			"howartsHouse": "Ninguno",
-			"patronus": "Ninguno",
-			"pet": []
+			"patronus": "Ninguno"
 		},
 		{
 			"id": 31,
@@ -661,8 +592,7 @@
 			},
 			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
 			"howartsHouse": "Academia Mágica de Beaixbatons",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 32,
@@ -682,8 +612,7 @@
 			},
 			"img": "https://i.pinimg.com/originals/dd/36/f3/dd36f3fceb461788a46fa6725c44b2b8.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Ciervo",
-			"pet": []
+			"patronus": "Ciervo"
 		},
 		{
 			"id": 33,
@@ -703,8 +632,7 @@
 			},
 			"img": "http://pm1.narvii.com/7047/7fa213701fed760de494211a4c364ac1421109ccr1-640-804v2_uhq.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Cierva",
-			"pet": []
+			"patronus": "Cierva"
 		},
 		{
 			"id": 34,
@@ -722,8 +650,7 @@
 			},
 			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6euy33wJUNt1encsm_psuylWhU3GJf3Z8DQ&usqp=CAU",
 			"howartsHouse": "Ravenclaw",
-			"patronus": "Ave Rapaz",
-			"pet": []
+			"patronus": "Ave Rapaz"
 		},
 		{
 			"id": 35,
@@ -741,14 +668,13 @@
 			},
 			"img": "https://i.pinimg.com/474x/08/99/62/0899620220b22fe7c2a3b8940afe08ea.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 36,
 			"figure": "Vernon Dursley",
 			"nickname": "Vernon",
-			"maritalStatus": "Casado con Petunia Dursley",
+			"maritalStatus": "Casado con unia Dursley",
 			"blood": "Muggle",
 			"children": [
 				"Dudley Dursley"
@@ -762,13 +688,12 @@
 			},
 			"img": "http://pm1.narvii.com/6198/1829eea4f2859441006b62935f87843af0f3ca30_00.jpg",
 			"howartsHouse": "",
-			"patronus": "",
-			"pet": []
+			"patronus": ""
 		},
 		{
 			"id": 37,
-			"figure": "Petunia Dursley",
-			"nickname": "Petunia",
+			"figure": "unia Dursley",
+			"nickname": "unia",
 			"maritalStatus": "Casada Vernon Durley",
 			"blood": "Muggle",
 			"children": [
@@ -783,8 +708,7 @@
 			},
 			"img": "http://pm1.narvii.com/6198/d0fc289efaee5b87075a65b50a59d6ffbc0ccf68_00.jpg",
 			"howartsHouse": "",
-			"patronus": "",
-			"pet": []
+			"patronus": ""
 		},
 		{
 			"id": 38,
@@ -802,8 +726,7 @@
 			},
 			"img": "https://m.guiadelocio.com/var/guiadelocio.com/storage/images/a-fondo/10-terribles-elecciones-de-casting-en-el-universo-harry-potter/emma-thompson-como-sybil-trelawney-en-harry-potter-y-el-prisionero-de-azkaban-2004/36638686-1-esl-ES/emma-thompson-como-sybil-trelawney-en-harry-potter-y-el-prisionero-de-azkaban-2004.jpg",
 			"howartsHouse": "Ravenclaw",
-			"patronus": "No corpóreo",
-			"pet": []
+			"patronus": "No corpóreo"
 		},
 		{
 			"id": 39,
@@ -821,8 +744,7 @@
 			},
 			"img": "https://fotografias.antena3.com/clipping/cmsimages01/2017/10/23/1CE9BF7B-B2F1-4EC4-B847-2A64C2B6FC3C/98.jpg?crop=757,426,x39,y0&width=1900&height=1069&optimize=high&format=webply",
 			"howartsHouse": "Ravenclaw",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 40,
@@ -840,8 +762,7 @@
 			},
 			"img": "https://i2-prod.mirror.co.uk/incoming/article7711143.ece/ALTERNATES/s1200c/0_Harry-Potter-actor-Devon-Murray.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Raposa",
-			"pet": []
+			"patronus": "Raposa"
 		},
 		{
 			"id": 41,
@@ -859,8 +780,7 @@
 			},
 			"img": "http://pm1.narvii.com/6241/125997c9492eb24410bd4915bade390f948443a8_00.jpg",
 			"howartsHouse": "Ravenclaw",
-			"patronus": "No corpórep",
-			"pet": []
+			"patronus": "No corpóreo"
 		},
 		{
 			"id": 42,
@@ -878,8 +798,7 @@
 			},
 			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPvjRNUwl7F9K5GhV4HhAgnnpKNoFKrTq-g&usqp=CAU",
 			"howartsHouse": "Hafflepuff",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 43,
@@ -897,8 +816,7 @@
 			},
 			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXv8Jm2AMKsroh6WEi-7Zl6WQD7PCwhDtIXg&usqp=CAU",
 			"howartsHouse": "Ravenclaw",
-			"patronus": "Cisne",
-			"pet": []
+			"patronus": "Cisne"
 		},
 		{
 			"id": 44,
@@ -916,8 +834,7 @@
 			},
 			"img": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/que-fue-de-viktor-krum/113403807-1-esl-ES/Que-fue-de-Viktor-Krum.jpg",
 			"howartsHouse": "Instituto Durmstrang",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 45,
@@ -935,8 +852,7 @@
 			},
 			"img": "http://pm1.narvii.com/7214/f322014c5d1fde81804b6df8f4b266654664d670r1-1200-1682v2_uhq.jpg",
 			"howartsHouse": "Desconocido",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 46,
@@ -954,8 +870,7 @@
 			},
 			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTObaqN6vydPMu_zTkLFIBm8R7w9HtMwTLxJw&usqp=CAU",
 			"howartsHouse": "Ravenclaw",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 47,
@@ -975,8 +890,7 @@
 			},
 			"img": "https://con1s.net/img/catalogo/455/Array5.png",
 			"howartsHouse": "Ravenclaw",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 48,
@@ -994,8 +908,7 @@
 			},
 			"img": "https://pbs.twimg.com/media/Erz0C3FXMAI_lCY.jpg",
 			"howartsHouse": "Desconocido",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 49,
@@ -1013,8 +926,7 @@
 			},
 			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhHW9TZk3McVgT-hhqyT3NBflwbo0qBg3bg&usqp=CAU",
 			"howartsHouse": "Desconocido",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 50,
@@ -1032,8 +944,7 @@
 			},
 			"img": "https://pm1.narvii.com/6607/543c11c74cbb4ad6fe3fe2fdfa15ef5553119dad_hq.jpg",
 			"howartsHouse": "Slytherin",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 51,
@@ -1051,8 +962,7 @@
 			},
 			"img": "https://2.bp.blogspot.com/-dji-I8w6zkE/Wd492ZVQPdI/AAAAAAAA2cg/ndtP21BsuI0nFBXp8Ngie3Ir41fluLcsgCLcBGAs/s1600/Fenrirgreyback.png",
 			"howartsHouse": "Slytherin",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 		},
 		{
 			"id": 52,
@@ -1070,8 +980,7 @@
 			},
 			"img": "https://pbs.twimg.com/media/EWqVet3WAAAMSH6.jpg:large",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Lince",
-			"pet": []
+			"patronus": "Lince"
 		},
 		{
 			"id": 53,
@@ -1089,8 +998,7 @@
 			},
 			"img": "http://pm1.narvii.com/6241/13afb76ac1a9a05a5d343123bea762bf64918465_00.jpg",
 			"howartsHouse": "Desconocido",
-			"patronus": "Desconocido",
-			"pet": []
+			"patronus": "Desconocido"
 		}
 		
 	]
