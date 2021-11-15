@@ -17,13 +17,9 @@
 				"hairColour": "Negro azabache",
 				"eyesColour": "verde / Azul (películas)"
 			},
-			"img": "https://cinemagavia.es/wp-content/uploads/2020/09/Saga-Harry-Potter-5-696x449.jpeg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/harryPotter.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Ciervo",
-			"": [{
-				"name": "Hedwig",
-				"img": "http://pm1.narvii.com/6625/2a45439b9d0c41631c9d4d0c0635f886ec217085_00.jpg"
-			}]
+			"patronus": "Ciervo"
 		},
 		{
 			"id": 2,
@@ -70,7 +66,7 @@
 			"id": 4,
 			"figure": "Fred Weasley",
 			"nickname": "Fred",
-			"maritalStatus": "",
+			"maritalStatus": "Desconocido",
 			"blood": "Sangre pura",
 			"children": [],
 			"physicalDescription": {
@@ -851,7 +847,7 @@
 				"eyesColour": "Verdes"
 			},
 			"img": "http://pm1.narvii.com/7214/f322014c5d1fde81804b6df8f4b266654664d670r1-1200-1682v2_uhq.jpg",
-			"howartsHouse": "Desconocido",
+			"howartsHouse": "",
 			"patronus": "Desconocido"
 		},
 		{
@@ -907,7 +903,7 @@
 				"eyesColour": "Marrones"
 			},
 			"img": "https://pbs.twimg.com/media/Erz0C3FXMAI_lCY.jpg",
-			"howartsHouse": "Desconocido",
+			"howartsHouse": "",
 			"patronus": "Desconocido"
 		},
 		{
@@ -925,7 +921,7 @@
 				"eyesColour": "Grises"
 			},
 			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhHW9TZk3McVgT-hhqyT3NBflwbo0qBg3bg&usqp=CAU",
-			"howartsHouse": "Desconocido",
+			"howartsHouse": "",
 			"patronus": "Desconocido"
 		},
 		{
@@ -997,7 +993,7 @@
 				"eyesColour": "Amarillos"
 			},
 			"img": "http://pm1.narvii.com/6241/13afb76ac1a9a05a5d343123bea762bf64918465_00.jpg",
-			"howartsHouse": "Desconocido",
+			"howartsHouse": "",
 			"patronus": "Desconocido"
 		}
 		
