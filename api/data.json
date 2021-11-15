@@ -37,7 +37,7 @@
 				"hairColour": "Castaño",
 				"eyesColour": "Marrones"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/hermione_granger.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/hermioneGranger.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Nutria"
 			
@@ -58,7 +58,7 @@
 				"hairColour": "Pelirrojo",
 				"eyesColour": "Azul"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/ron_weasley.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/ronaldWeasley.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Jack Rusell Terrier"
 		},
@@ -75,7 +75,7 @@
 				"hairColour": "Pelirrojo",
 				"eyesColour": "Negro"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/fred_weasley.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/fredWeasley.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Urraca"
 		},
@@ -92,7 +92,7 @@
 				"hairColour": "Pelirrojo",
 				"eyesColour": "Negro"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/george_weasley.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/georgeWeasley.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Urraca"
 		},
@@ -113,7 +113,7 @@
 				"hairColour": "Pelirrojo",
 				"eyesColour": "Azul"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/bill_weasley.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/arthurWeasley.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Desconocido"
 		},
@@ -133,7 +133,7 @@
 				"hairColour": "Pelirrojo / Canoso",
 				"eyesColour": "Azul"
 			},
-			"img": "http://pm1.narvii.com/6869/4b691880f46490b9c3cd9a6fe4789d5197c4682er1-715-701v2_uhq.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/percyWeasley.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Desconocido"
 		},
@@ -150,7 +150,7 @@
 				"hairColour": "Pelirrojo",
 				"eyesColour": "Azul"
 			},
-			"img": "https://i.pinimg.com/736x/fa/92/6f/fa926fa87a0c73082e7a674b7d1491b4.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/charlesWeasley.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Desconocido"
 		},
@@ -171,7 +171,7 @@
 				"hairColour": "Pelirrojo",
 				"eyesColour": "Marron / Azul"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/ginny_weasley.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/ginnyWeasley.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Caballo"
 		},
@@ -196,7 +196,7 @@
 				"hairColour": "Pelirrojo",
 				"eyesColour": "Marrones"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/molly_weasley.png"
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/mollyWeasley.jpg"
 		},
 		{
 			"id": 11,
@@ -219,7 +219,7 @@
 				"hairColour": "Pelirrojo",
 				"eyesColour": "Azules"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/arthur_weasley.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/arthurWeasley.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Comadreja"
 		},
@@ -236,7 +236,7 @@
 				"hairColour": "Moreno",
 				"eyesColour": "Marrones"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/neville_longbottom.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/neville.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "No corpóreo"
 		},
@@ -253,7 +253,7 @@
 				"hairColour": "Rubio",
 				"eyesColour": "Grises"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/luna_lovegood.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/lunaLovegood.jpg",
 			"howartsHouse": "Ravenclaw",
 			"patronus": "Liebre"
 		},
@@ -272,7 +272,7 @@
 				"hairColour": "Rubio",
 				"eyesColour": "Grises"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/draco_malfoy.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/dracoMalfoy.jpg",
 			"howartsHouse": "Slytherin",
 			"patronus": "Desconocido"
 		},
@@ -289,7 +289,7 @@
 				"hairColour": "Plateado",
 				"eyesColour": "Azul"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/albus_dumbledore.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/albusDumbledore.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Fénix"
 		},
@@ -306,7 +306,7 @@
 				"hairColour": "Negro",
 				"eyesColour": "Verdes"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/minerva_mcgonnagall.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/minervaMcgonagall.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Gato"
 		},
@@ -325,7 +325,7 @@
 				"hairColour": "Castaño claro",
 				"eyesColour": "Verdes"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/remus_lupin.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/remusLupin.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Lobo"
 		},
@@ -342,7 +342,7 @@
 				"hairColour": "Negro",
 				"eyesColour": "Negros"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/rubeus_hagrid.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/rubeusHagrid.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Desconocido"
 		},
@@ -359,7 +359,7 @@
 				"hairColour": "Negro",
 				"eyesColour": "Grises"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/sirius_black.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/siriusBlack.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Perro"
 		},
@@ -376,7 +376,7 @@
 				"hairColour": "Negro",
 				"eyesColour": "Negros"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/severus_snape.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/severusSnape.jpg",
 			"howartsHouse": "Slytherin",
 			"patronus": "Cierva"
 		},
@@ -395,7 +395,7 @@
 				"hairColour": "Negro",
 				"eyesColour": "Marrones"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/bellatrix_lestrange.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/bellatrixLestrange.jpg",
 			"howartsHouse": "Slytherin",
 			"patronus": "Desconocido"
 
@@ -415,7 +415,7 @@
 				"hairColour": "Negro ( más tarde calvo)",
 				"eyesColour": "Castaños ( más tarde rojos)"
 			},
-			"img": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/lord_voldemort.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/lordVoldemort.jpg",
 			"howartsHouse": "Slytherin",
 			"patronus": "Desconocido"
 		},
@@ -432,7 +432,7 @@
 				"hairColour": "Canoso",
 				"eyesColour": "Marrones"
 			},
-			"img": "https://pm1.narvii.com/6486/c02bfc7d5605bec3b42c7870e26c26e71b3fbf46_hq.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/argusFilch.jpg",
 			"howartsHouse": "Ninguna",
 			"patronus": "Desconocido"
 		},
@@ -450,7 +450,7 @@
 				"hairColour": "Carece",
 				"eyesColour": "verdes"
 			},
-			"img": "https://www.elsoldemexico.com.mx/cultura/cine/v5w7vk-dobby-especial.jpg/ALTERNATES/LANDSCAPE_960/Dobby%20ESPECIAL.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/dobby.jpg",
 			"howartsHouse": "",
 			"patronus": "Desconocido"
 		},
@@ -468,13 +468,13 @@
 				"hairColour": "Castaño",
 				"eyesColour": "Marrones"
 			},
-			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAkEUbYwHz4OV8tbW0hjusNfP0osU4p7hM_w&usqp=CAU",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/doloresUmbridge.jpg",
 			"howartsHouse": "Slytherin",
 			"patronus": "Gato de pelo largo"
 		},
 		{
 			"id": 26,
-			"figure": "er tigrew",
+			"figure": "Peter pettigrew",
 			"nickname": "Colagusano o Scabbers (por la familia Weasley)",
 			"maritalStatus": "Desconocido",
 			"blood": "Sangre pura o mestiza",
@@ -506,7 +506,7 @@
 				"hairColour": "Rubio ",
 				"eyesColour": "Grises"
 			},
-			"img": "https://areajugones.sport.es/wp-content/uploads/2017/10/Jason-Isaacs-Lucius-Malfoy.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/luciusMalfoy.jpg",
 			"howartsHouse": "Slytherin",
 			"patronus": "Ninguno"
 		},
@@ -526,7 +526,7 @@
 				"hairColour": "Rubio",
 				"eyesColour": "Azules"
 			},
-			"img": "https://image.europafm.com/clipping/cmsimages01/2021/04/17/1F4217D6-FDA2-4860-A39F-54312E645080/98.jpg?crop=1600,900,x0,y0&width=1900&height=1069&optimize=high&format=webply",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/narcisaMalfoy.jpg",
 			"howartsHouse": "Slytherin",
 			"patronus": "Desconocido"
 		},
@@ -546,7 +546,7 @@
 				"hairColour": "Rosa o morado",
 				"eyesColour": "Marrones"
 			},
-			"img": "https://4.bp.blogspot.com/-ScVi2OM3cuc/WFaSjsagQFI/AAAAAAAAWhc/9QdaPY4Uk9QI5x-H1BMkbomS-f7wSdc5QCLcB/s1600/nymphadora%2Bharrypotterdiagon.jpg",
+			"img": "hhttps://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/nymphadoraLupin.jpg",
 			"howartsHouse": "Hufflepuff",
 			"patronus": "Liebre y lobo"
 		},
@@ -564,7 +564,7 @@
 				"hairColour": "Negro azabache",
 				"eyesColour": "verde / Azul (películas)"
 			},
-			"img": "https://quecosplayhago.files.wordpress.com/2012/06/dudley.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/dudleyDursley.jpg",
 			"howartsHouse": "Ninguno",
 			"patronus": "Ninguno"
 		},
@@ -586,7 +586,7 @@
 				"hairColour": "Rubio platino",
 				"eyesColour": "Azules"
 			},
-			"img": "http://pm1.narvii.com/6308/7d78cbc6513a96bee7c9f6e84a02683a9fe10f1b_00.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/fleurIsabelle.jpg",
 			"howartsHouse": "Academia Mágica de Beaixbatons",
 			"patronus": "Desconocido"
 		},
@@ -606,7 +606,7 @@
 				"hairColour": "Negro",
 				"eyesColour": "Avellana"
 			},
-			"img": "https://i.pinimg.com/originals/dd/36/f3/dd36f3fceb461788a46fa6725c44b2b8.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/jamesPotter.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Ciervo"
 		},
@@ -626,7 +626,7 @@
 				"hairColour": "Pelirrojo",
 				"eyesColour": "Verdes"
 			},
-			"img": "http://pm1.narvii.com/7047/7fa213701fed760de494211a4c364ac1421109ccr1-640-804v2_uhq.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/lilyPotter.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Cierva"
 		},
@@ -644,7 +644,7 @@
 				"hairColour": "Rubio con canas",
 				"eyesColour": "Cafe y azul eléctrico (Ojo falso)"
 			},
-			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6euy33wJUNt1encsm_psuylWhU3GJf3Z8DQ&usqp=CAU",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/alastorMoody.jpg",
 			"howartsHouse": "Ravenclaw",
 			"patronus": "Ave Rapaz"
 		},
@@ -662,7 +662,7 @@
 				"hairColour": "Castaño",
 				"eyesColour": "Cafes"
 			},
-			"img": "https://i.pinimg.com/474x/08/99/62/0899620220b22fe7c2a3b8940afe08ea.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/oliverWood.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Desconocido"
 		},
@@ -682,13 +682,13 @@
 				"hairColour": "Gris",
 				"eyesColour": "Azules"
 			},
-			"img": "http://pm1.narvii.com/6198/1829eea4f2859441006b62935f87843af0f3ca30_00.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/vernonDursley.jpg",
 			"howartsHouse": "",
 			"patronus": ""
 		},
 		{
 			"id": 37,
-			"figure": "unia Dursley",
+			"figure": "Petunia Dursley",
 			"nickname": "unia",
 			"maritalStatus": "Casada Vernon Durley",
 			"blood": "Muggle",
@@ -702,7 +702,7 @@
 				"hairColour": "Castaño",
 				"eyesColour": "Café"
 			},
-			"img": "http://pm1.narvii.com/6198/d0fc289efaee5b87075a65b50a59d6ffbc0ccf68_00.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/petuniaDursley.jpg",
 			"howartsHouse": "",
 			"patronus": ""
 		},
@@ -720,7 +720,7 @@
 				"hairColour": "Castaño",
 				"eyesColour": "Verdes"
 			},
-			"img": "https://m.guiadelocio.com/var/guiadelocio.com/storage/images/a-fondo/10-terribles-elecciones-de-casting-en-el-universo-harry-potter/emma-thompson-como-sybil-trelawney-en-harry-potter-y-el-prisionero-de-azkaban-2004/36638686-1-esl-ES/emma-thompson-como-sybil-trelawney-en-harry-potter-y-el-prisionero-de-azkaban-2004.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/trelawney.jpg",
 			"howartsHouse": "Ravenclaw",
 			"patronus": "No corpóreo"
 		},
@@ -738,7 +738,7 @@
 				"hairColour": "Negro",
 				"eyesColour": "Negros"
 			},
-			"img": "https://fotografias.antena3.com/clipping/cmsimages01/2017/10/23/1CE9BF7B-B2F1-4EC4-B847-2A64C2B6FC3C/98.jpg?crop=757,426,x39,y0&width=1900&height=1069&optimize=high&format=webply",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/myrtleWarren.jpg",
 			"howartsHouse": "Ravenclaw",
 			"patronus": "Desconocido"
 		},
@@ -756,7 +756,7 @@
 				"hairColour": "Castaño claro",
 				"eyesColour": "Marrones"
 			},
-			"img": "https://i2-prod.mirror.co.uk/incoming/article7711143.ece/ALTERNATES/s1200c/0_Harry-Potter-actor-Devon-Murray.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/seamusFinnigan.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Raposa"
 		},
@@ -774,7 +774,7 @@
 				"hairColour": "Rubio",
 				"eyesColour": "Azules"
 			},
-			"img": "http://pm1.narvii.com/6241/125997c9492eb24410bd4915bade390f948443a8_00.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/gilderyLockhart.jpg",
 			"howartsHouse": "Ravenclaw",
 			"patronus": "No corpóreo"
 		},
@@ -792,7 +792,7 @@
 				"hairColour": "Castaño",
 				"eyesColour": "Grises"
 			},
-			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPvjRNUwl7F9K5GhV4HhAgnnpKNoFKrTq-g&usqp=CAU",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/cedricDiggory.jpg",
 			"howartsHouse": "Hafflepuff",
 			"patronus": "Desconocido"
 		},
@@ -810,7 +810,7 @@
 				"hairColour": "Negro",
 				"eyesColour": "Negros"
 			},
-			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXv8Jm2AMKsroh6WEi-7Zl6WQD7PCwhDtIXg&usqp=CAU",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/choChang.jpg",
 			"howartsHouse": "Ravenclaw",
 			"patronus": "Cisne"
 		},
@@ -828,7 +828,7 @@
 				"hairColour": "Negro",
 				"eyesColour": "Negros"
 			},
-			"img": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/que-fue-de-viktor-krum/113403807-1-esl-ES/Que-fue-de-Viktor-Krum.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/viktorKrum.jpg",
 			"howartsHouse": "Instituto Durmstrang",
 			"patronus": "Desconocido"
 		},
@@ -846,7 +846,7 @@
 				"hairColour": "Rubio platino",
 				"eyesColour": "Verdes"
 			},
-			"img": "http://pm1.narvii.com/7214/f322014c5d1fde81804b6df8f4b266654664d670r1-1200-1682v2_uhq.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/ritaSkeeter.jpg",
 			"howartsHouse": "",
 			"patronus": "Desconocido"
 		},
@@ -864,7 +864,7 @@
 				"hairColour": "Blanco",
 				"eyesColour": "Grises"
 			},
-			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTObaqN6vydPMu_zTkLFIBm8R7w9HtMwTLxJw&usqp=CAU",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/ollivander.jpg",
 			"howartsHouse": "Ravenclaw",
 			"patronus": "Desconocido"
 		},
@@ -884,7 +884,7 @@
 				"hairColour": "Blanco",
 				"eyesColour": "Marrones"
 			},
-			"img": "https://con1s.net/img/catalogo/455/Array5.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/xenophilius.jpg",
 			"howartsHouse": "Ravenclaw",
 			"patronus": "Desconocido"
 		},
@@ -902,7 +902,7 @@
 				"hairColour": "Rubio",
 				"eyesColour": "Marrones"
 			},
-			"img": "https://pbs.twimg.com/media/Erz0C3FXMAI_lCY.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/bartyJr.jpg",
 			"howartsHouse": "",
 			"patronus": "Desconocido"
 		},
@@ -920,7 +920,7 @@
 				"hairColour": "Rubio",
 				"eyesColour": "Grises"
 			},
-			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhHW9TZk3McVgT-hhqyT3NBflwbo0qBg3bg&usqp=CAU",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/corneliusFudge.jpg",
 			"howartsHouse": "",
 			"patronus": "Desconocido"
 		},
@@ -938,7 +938,7 @@
 				"hairColour": "Rubio - calvo",
 				"eyesColour": "Azules"
 			},
-			"img": "https://pm1.narvii.com/6607/543c11c74cbb4ad6fe3fe2fdfa15ef5553119dad_hq.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/horaceSlughorn.jpg",
 			"howartsHouse": "Slytherin",
 			"patronus": "Desconocido"
 		},
@@ -956,7 +956,7 @@
 				"hairColour": "Negro",
 				"eyesColour": "Negros"
 			},
-			"img": "https://2.bp.blogspot.com/-dji-I8w6zkE/Wd492ZVQPdI/AAAAAAAA2cg/ndtP21BsuI0nFBXp8Ngie3Ir41fluLcsgCLcBGAs/s1600/Fenrirgreyback.png",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/fenrirGreyback.jpg",
 			"howartsHouse": "Slytherin",
 			"patronus": "Desconocido"
 		},
@@ -974,7 +974,7 @@
 				"hairColour": "Calvo",
 				"eyesColour": "Marrones"
 			},
-			"img": "https://pbs.twimg.com/media/EWqVet3WAAAMSH6.jpg:large",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/shacklebolt.jpg",
 			"howartsHouse": "Gryffindor",
 			"patronus": "Lince"
 		},
@@ -992,7 +992,7 @@
 				"hairColour": "Negro",
 				"eyesColour": "Amarillos"
 			},
-			"img": "http://pm1.narvii.com/6241/13afb76ac1a9a05a5d343123bea762bf64918465_00.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/rufusScrimgeour.jpg",
 			"howartsHouse": "",
 			"patronus": "Desconocido"
 		}
