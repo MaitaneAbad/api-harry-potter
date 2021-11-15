@@ -546,7 +546,7 @@
 				"hairColour": "Rosa o morado",
 				"eyesColour": "Marrones"
 			},
-			"img": "hhttps://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/nymphadoraLupin.jpg",
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/nymphadoraLupin.jpg",
 			"howartsHouse": "Hufflepuff",
 			"patronus": "Liebre y lobo"
 		},
