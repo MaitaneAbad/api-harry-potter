@@ -68,7 +68,7 @@
 			"nickname": "Fred",
 			"maritalStatus": "Desconocido",
 			"blood": "Sangre pura",
-			"children": [],
+			"children": ["undefined"],
 			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
@@ -85,7 +85,7 @@
 			"nickname": "George",
 			"maritalStatus": "Casado con Angelina Johnson",
 			"blood": "Sangre pura",
-			"children": [],
+			"children": ["undefined"],
 			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
@@ -143,7 +143,7 @@
 			"nickname": "Charlie",
 			"maritalStatus": "Soltero",
 			"blood": "Sangre pura",
-			"children": [],
+			"children": ["undefined"],
 			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
@@ -229,7 +229,7 @@
 			"nickname": "Neville",
 			"maritalStatus": "Casado con  Hannah Abbott",
 			"blood": "Sangre pura",
-			"children": [],
+			"children": ["undefined"],
 			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
@@ -246,7 +246,7 @@
 			"nickname": "Luna",
 			"maritalStatus": "casada con Rolf Scamander",
 			"blood": "Sangre pura",
-			"children": [],
+			"children": ["undefined"],
 			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Femenino",
@@ -282,7 +282,7 @@
 			"nickname": "Dumbledore",
 			"maritalStatus": "Soltero",
 			"blood": "Sangre mestiza",
-			"children": [],
+			"children": ["undefined"],
 			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
@@ -299,7 +299,7 @@
 			"nickname": "Minerva",
 			"maritalStatus": "Viuda",
 			"blood": "Sangre mestiza",
-			"children": [],
+			"children": ["undefined"],
 			"physicalDescription": {
 				"breed": "Humana (metamorfomaga)",
 				"genres": "Femenino",
@@ -335,7 +335,7 @@
 			"nickname": "Hagrid",
 			"maritalStatus": "Desconocido",
 			"blood": "Medio-gigante",
-			"children": [],
+			"children": ["undefined"],
 			"physicalDescription": {
 				"breed": "Medio-gigante",
 				"genres": "Masculino",
@@ -352,7 +352,7 @@
 			"nickname": "Hocicos",
 			"maritalStatus": "Soltero",
 			"blood": "Sangre pura",
-			"children": [],
+			"children": ["undefined"],
 			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
@@ -369,7 +369,7 @@
 			"nickname": "Snape",
 			"maritalStatus": "Soltero",
 			"blood": "Sangre mestiza",
-			"children": [],
+			"children": ["undefined"],
 			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
@@ -425,7 +425,7 @@
 			"nickname": "Filch",
 			"maritalStatus": "Soltero",
 			"blood": "Sangre pura pero es un Squib",
-			"children": [],
+			"children": ["undefined"],
 			"physicalDescription": {
 				"breed": "Humano",
 				"genres": "Masculino",
@@ -442,7 +442,7 @@
 			"nickname": "Dobby",
 			"maritalStatus": "Soltero",
 			"blood": "Elfo Librea",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Elfo",
@@ -460,7 +460,7 @@
 			"nickname": "Umbridge",
 			"maritalStatus": "Soltera",
 			"blood": "Sangre mestiza",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Humano",
@@ -478,7 +478,7 @@
 			"nickname": "Colagusano o Scabbers (por la familia Weasley)",
 			"maritalStatus": "Desconocido",
 			"blood": "Sangre pura o mestiza",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Humano",
@@ -556,7 +556,7 @@
 			"nickname": "Duddy",
 			"maritalStatus": "Casado",
 			"blood": "Muggle",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Humano",
@@ -636,7 +636,7 @@
 			"nickname": "Ojoloco",
 			"maritalStatus": "Soltero",
 			"blood": "Sangre pura",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Humano",
@@ -654,7 +654,7 @@
 			"nickname": "Oliver",
 			"maritalStatus": "Desconocido",
 			"blood": "Sangre Pura",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Humano",
@@ -712,7 +712,7 @@
 			"nickname": "Sybill Trelawney",
 			"maritalStatus": "Soltera",
 			"blood": "Sangre mestiza",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Humana",
@@ -730,7 +730,7 @@
 			"nickname": "Myrtle, La llorona",
 			"maritalStatus": "Solteroa",
 			"blood": "Sangre mestiza",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Fantasma",
@@ -748,7 +748,7 @@
 			"nickname": "Finnigan",
 			"maritalStatus": "Desconocido",
 			"blood": "Sangre mestiza",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Humano",
@@ -766,7 +766,7 @@
 			"nickname": "Lockhart",
 			"maritalStatus": "Soltero",
 			"blood": "Sangre mestiza",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Humano",
@@ -784,7 +784,7 @@
 			"nickname": "Cedric",
 			"maritalStatus": "Soltero",
 			"blood": "Sangre Pura",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Humano",
@@ -802,7 +802,7 @@
 			"nickname": "Cho",
 			"maritalStatus": "Casada con un muggle",
 			"blood": "Sangre pura o mestiza",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Humana",
@@ -820,7 +820,7 @@
 			"nickname": "Viktor",
 			"maritalStatus": "Casado",
 			"blood": "Sangre pura o mestiza",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Humano",
@@ -838,7 +838,7 @@
 			"nickname": "Rita",
 			"maritalStatus": "Desconocido",
 			"blood": "Sangre pura o mestiza",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Animago",
@@ -856,7 +856,7 @@
 			"nickname": "Sr. Ollivander",
 			"maritalStatus": "Casado",
 			"blood": "Sangre mestiza",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Humano",
@@ -894,7 +894,7 @@
 			"nickname": "Barty",
 			"maritalStatus": "Soltero",
 			"blood": "Sangre pura",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Humano",
@@ -912,7 +912,7 @@
 			"nickname": "Cornelius",
 			"maritalStatus": "Casado",
 			"blood": "Sangre pura",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Humano",
@@ -930,7 +930,7 @@
 			"nickname": "Horace o Sluggy",
 			"maritalStatus": "Desconocido",
 			"blood": "Sangre pura",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Humano",
@@ -948,7 +948,7 @@
 			"nickname": "Greyback",
 			"maritalStatus": "Desconocido",
 			"blood": "Sangre pura o mestiza",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Hombre Lobo",
@@ -966,7 +966,7 @@
 			"nickname": "Regio",
 			"maritalStatus": "Desconocido",
 			"blood": "Sangre pura",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Humano",
@@ -984,7 +984,7 @@
 			"nickname": "Rufus",
 			"maritalStatus": "Desconocido",
 			"blood": "Sangre pura",
-			"children": [],
+			"children": ["undefined"],
 
 			"physicalDescription": {
 				"breed": "Humano",
