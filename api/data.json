@@ -13,7 +13,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/harryPotter.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Ciervo"
+			"patronus": "Ciervo",
+      "history":"Es la única persona conocida que ha sobrevivido a la maldición de Avada Kedavra, haciéndolo en dos ocasiones. Ambas veces la maldición fue conjurada por Lord Voldemort. La primera, en un intento de matar a Harry de bebé, conlleva la primera derrota de Voldemort y al final de la Primera Guerra Mágica. La segunda, (en la que a diferencia de la primera Voldemort logra matarlo efectivamente pero luego el niño revive) destruye una parte más del alma de Voldemort y lleva a su destrucción definitiva y al final de la Segunda Guerra Mágica. Luego de su primer intento de asesinato y la muerte de sus padres, Harry es acogido por sus tíos, los Dursley. A la edad de once años, Harry descubre que es un mago. Comienza a asistir a Hogwarts y es seleccionado en la Casa de Gryffindor. Se convierte en el mejor amigo de Ron Weasley y Hermione Granger y en el jugador de Quidditch más joven en más de un siglo. Se hace aún más conocido en sus primeros años tras proteger la piedra filosofal de Voldemort y salvar a Ginny Weasley de la Cámara de los Secretos. En su cuarto año, gana el Torneo de los Tres Magos, aunque la competencia termina en tragedia con la muerte de Cedric Diggory y el regreso de Lord Voldemort. En el siguiente año escolar, funda el Ejército de Dumbledore y lucha en la Batalla del Departamento de Misterios, durante la cual pierde a su padrino, que era como un padre para él. Desempeña un papel importante en muchas otras batallas de la Segunda Guerra Mágica. Durante la Batalla de Hogwarts, se encuentra con Voldemort y se sacrifica a sí mismo, aunque no muere, sino que se bate en duelo contra Voldemort por última vez y lo derrota. Después de la guerra, se convierte en auror y se casa con Ginny Weasley, con quien tiene tres hijos: James Sirius, Albus Severus y Lily Luna. Es el padrino de Teddy Remus Lupin. Harry es también notable por ser el único Señor de la Muerte que se conoce, después de haber unido las tres Reliquias de la muerte. Paradójicamente, es pariente de Lord Voldemort, al ser este descendiente de Cadmus Peverell y Harry de Ignotus Peverell. Según un epílogo alternativo que filtraron escrito por J.K. Rowling, Harry tiene 150 años y es director de Hogwarts y tiene un tataranieto llamado Tom, como Tom Ryddle (podría ser que se llamara Tom Potter)."
 		},
 		{
 			"id": 2,
@@ -29,8 +30,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/hermioneGranger.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Nutria"
-			
+			"patronus": "Nutria",
+			"history":" El Sr. y Sra. Granger son dentistas en el mundo muggle. A los once años descubrió su don mágico y fue aceptada en el Colegio Hogwarts de Magia y Hechicería. Hermione empezó sus estudios mágicos el 1 de septiembre de 1991, poco antes de cumplir doce años y fue seleccionada para la Casa Gryffindor. Posee una mente académica brillante, y demostró ser una estudiante superdotada.Hermione conoció a Harry Potter y a Ron Weasley en el Expreso de Hogwarts. Los dos chicos encontraron a Hermione una chica hostil y sabelotodo. Después de ver el afán con los profesores y sus constantes respuestas correctas refuerzan su primera impresión. Sin embargo, a pesar de la fría relación entre los tres, Hermione dio un paso asumiendo la responsabilidad después de que la hubieran salvado de un troll en Halloween. Harry y Ron se sorprendieron pero lo agradecieron, y los tres rápidamente se convirtieron en amigos. En el segundo año, Hermione es víctima del basilisco que estaba suelto en Hogwarts cuando la Cámara de los Secretos fue abierta, pero se recuperó de la petrificación gracias al cuidado de Madame Pomfrey y las mandrágoras maduras de la profesora Sprout. Al año siguiente, Hermione tuvo el permiso de usar un giratiempo concedido por el Ministerio de Magia para facilitarle estudiar más asignaturas de las que son posibles viajando en el tiempo. Más tarde, ella y Harry usaron el giratiempo para rescatar a Sirius Black del Beso del Dementor, y también salvaron a Buckbeak el hipogrifo de la ejecución. Durante el cuarto año en Hogwarts, se convirtió en una defensora de los elfos domésticos, formando la asociación P.E.D.D.O. En su quinto año, estuvo detrás de la creación del Ejército de Dumbledore. En los años siguientes participó en la batalla del Departamento de Misterios, la batalla de la Torre de Astronomía y la batalla de los Siete Potters en 1997. Hermione, al igual que Ron - con el que estaba envuelta en una relación sentimental - deciden no volver a Hogwarts en su último año de estudios, acompaña a Harry ayudándolo a destruir los Horrocruxes de Lord Voldemort. Luchó y sobrevivió a la Batalla de Hogwarts del 2 de mayo de 1998.Después de la Segunda Guerra Mágica, Hermione volvió a Hogwarts para terminar su educación. Después trabajó en el Ministerio de Magia, en el Departamento de Regulación y Control de Criaturas Mágicas, luchando para que trataran mejor a los elfos domésticos, y después en el Departamento de Aplicación de la Ley Mágica. Se casó con Ron Weasley y juntos tuvieron dos hijos: Rose y Hugo Weasley. Hermione se convirtió en la madrina del hijo mayor de Harry y Ginny, James Sirius Potter."
 		},
 		{
 			"id": 3,
@@ -46,7 +47,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/ronaldWeasley.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Jack Rusell Terrier"
+			"patronus": "Jack Rusell Terrier",
+      "history":"Ron comenzó a asistir al Colegio Hogwarts de Magia y Hechicería en 1991 y fue seleccionado para la Casa Gryffindor. Pronto se convirtió en el mejor amigo de su compañero Harry Potter y luego de Hermione Granger. Juntos, se enfrentaron a muchos desafíos durante su adolescencia, incluyendo mantener la Piedra Filosofal del Profesor Quirinus Quirrell, salvar a Ginny del basilisco de la Cámara de los Secretos, salvando al padrino de Harry Sirius Black de los Dementores de Azkaban, guiando a Harry a través del Torneo de los Tres Magos, formando el Ejército de Dumbledore y peleando en numerosas batallas del Segunda Guerra Mágica: incluyendo la Batalla del Departamento de Misterios (1996), Batalla de la Torre de Astronomía (1997), y Batalla de los Siete Potters (1997). Ron también se convirtió en prefecto y Guardián en el equipo de Quidditch de Gryffindor durante su quinto año en Hogwarts. Se saltó su último año de escuela para acompañar a Harry y Hermione en la búsqueda de los Horrocrux para destruir a Tom Ryddle y luchó en la Batalla de Hogwarts en 1998, durante la cual perdió a su hermano Fred, una pérdida que lo devastó a él y a su familia, especialmente a George, su gemelo. Después de la guerra, Ron se convirtió en Auror y ayudó a reformar y revolucionar el Ministerio de Magia. Después de dos años como un Auror, él fue a trabajar en Sortilegios Weasley con su hermano George. Él y Hermione finalmente se casaron y tuvieron dos hijos, Rose y Hugo. Ron también fue nombrado el padrino de James Sirius Potter, el hijo mayor de su hermana Ginny Weasley y Harry Potter."
 		},
 		{
 			"id": 4,
@@ -62,7 +64,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/fredWeasley.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Urraca"
+			"patronus": "Urraca",
+      "history":"Era un mago Sangre Pura, un hijo de Molly y Arthur Weasley, hermano de Bill, Charlie, Percy, Ron y Ginny Weasley, y el hermano gemelo de George Weasley. Él era un niño durante el apogeo de la Primera Guerra Mágica, y tenía tres años cuando Lord Voldemort cayó por primera vez. Asistió al Colegio Hogwarts de Magia y Hechicería desde 1989 a 1996 y fue ordenado en la Casa Gryffindor. Tanto él como su hermano gemelo eran estudiantes populares, conocidos por su sentido del humor, bromas, y por ser Golpeadores del Equipo de Quidditch de Gryffindor. En su séptimo año, se unió al Ejército de Dumbledore. Un bromista y brillante inventor, Fred dejó Hogwarts poco antes de la graduación para convertirse en un empresario exitoso, junto a su hermano gemelo, y abrió la tienda de bromas: Sortilegios Weasley en el Callejón Diagon. Fred era también un miembro de la Orden del Fénix, luchó en la Batalla sobre Little Whinging en 1997 y fue comentarista de Potterwatch durante el apogeo de la Segunda Guerra Mágica. En 1998, Fred participó en la Batalla de Hogwarts, defendiendo los pasillos subterráneos del castillo con su hermano gemelo. Fue asesinado en una explosión causada por el Mortífago Augustus Rookwood."
 		},
 		{
 			"id": 5,
@@ -78,7 +81,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/georgeWeasley.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Urraca"
+			"patronus": "Urraca",
+      "history":"Fue un mago de sangre pura, hijo de Arthur y Molly Weasley (de soltera Prewett), hermano de Bill, Charlie, Percy, Ron, Ginny y el hermano gemelo menor del fallecido Fred Weasley. Los primeros años de George estuvieron marcados por el auge de la Primera Guerra Mágica, y cuando Lord Voldemort cayó por primera vez. Asistió al Colegio Hogwarts de Magia y Hechicería con Fred desde 1989 hasta 1996, y fue seleccionado para la casa Gryffindor. Él y Fred eran estudiantes populares, convirtiéndose en Golpeadores del equipo de Quidditch de Gryffindor en su segundo año, y miembros del Ejército de Dumbledore en su inacabado séptimo año. Un bromista e inventor de nacimiento, George dejó Hogwarts antes de la graduación para convertirse en un empresario exitoso, junto a su hermano gemelo, y abrió la tienda de bromas Sortilegios Weasley en el 93 del Callejón Diagon. Él era un miembro de la Orden del Fénix y luchó en la Batalla de los Siete Potters y la Batalla de Hogwarts; en la segunda, Fred murió, dejando a George devastado. En algún momento después del final de la Segunda Guerra Mágica, George se casó con Angelina Johnson, con quien tuvo un hijo que llamó Fred, en honor de su difunto gemelo, y una hija llamada Roxanne."
 		},
 		{
 			"id": 6,
@@ -94,7 +98,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/arthurWeasley.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Es el mayor de los hijos de Arthur Weasley y Molly Weasley (de soltera Prewett), y el hermano mayor de Charlie, Percy, los gemelos George y Fred, Ron y Ginny Weasley. Estudió en Hogwarts desde septiembre de 1982 hasta junio de 1989, donde logró ser Prefecto y Premio Anual. Después de graduarse fue a trabajar para Gringotts ayudando a quitar las maldiciones de las pirámides en Egipto. En 1995 volvió a Inglaterra para unirse a la Orden del Fénix y enfrentarse a Lord Voldemort. Durante este período, conoció a Fleur Delacour, con la que empezó un romance. Durante la Batalla de la Torre de Astronomía, Bill fue gravemente herido por el hombre lobo Fenrir Greyback. No se convirtió en uno pero adoptó algunas de sus características (por ejemplo, comer carne cruda). Se casó con Fleur el 1 de agosto de 1997. Esta celebración fue interrumpida por los Mortífagos. Bill y Fleur se mudaron a El Refugio, donde ayudaron a Ron, Hermione y a Harry a escapar de los Mortífagos de la Mansión Malfoy. Como el resto de la Orden del Fénix, luchó en la Batalla de Hogwarts y sobrevivió. Tras la guerra, Bill y su esposa tuvieron dos hijas y un hijo: Victoire, Dominique y Louis Weasley."
 		},
 		{
 			"id": 7,
@@ -110,7 +115,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/percyWeasley.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Tomó las reglas muy seriamente, y no creyó que Fred y George Weasley llegarían muy lejos con sus bromas. Su hermano Ron también declaró una vez que (Percy no reconocería una broma aunque bailara desnuda delante de él llevando la cubretetera de Dobby). Un gran triunfador, fue a trabajar en el Ministerio de Magia después de salir del colegio, trabajando en el Departamento de Cooperación Mágica Internacional bajo Barty Crouch Sr. y más tarde como Asistente Junior del Ministro de Magia. Sin embargo, el ascenso de Percy a través del Ministerio causó una ruptura entre él y su familia tras el retorno de Lord Voldemort. Su padre pensó que el hecho de que el Ministro de Magia Cornelius Fudge lo hubiera ascendido era un complot del Ministro para vigilar a los Weasley y, a través de ellos, a Albus Dumbledore. Percy negó esto y se mantuvo fiel a la palabra del Ministerio de que Voldemort no había regresado, se separó de su familia y, además, los condenó por su apoyo y afiliación con Albus Dumbledore y la Orden del Fénix. Aunque el Ministerio aceptó que el Señor Tenebroso había regresado luego de la Batalla del Departamento de Misterios, el orgullo de Percy le impidió reconciliarse con su familia. Después de la caída del Ministerio por los Mortífagos en 1997, Percy finalmente recobró la razón y estaba dispuesto a aceptar que había estado equivocado todo el tiempo sobre el regreso de Lord Voldemort. Percy fue informado por Aberforth Dumbledore acerca de la Batalla de Hogwarts en 1998 y finalmente se reconcilió con su familia. Sobrevivió a la batalla, pero se sintió afligido por la muerte de su hermano Fred, con quien luchaba y estaba decidido a vengarse. Después de la caída de Voldemort, Percy volvió a trabajar para el Ministerio y se convirtió en Jefe del Departamento de Transporte Mágico bajo el nuevo Ministro de Magia, Kingsley Shacklebolt. Se casó con una mujer llamada Audrey y tuvo dos hijas, Molly, llamada así por su abuela paterna, y Lucy. Su hermano menor, Ron, es el mejor amigo de Harry Potter y de Hermione Granger, con los que mantiene una buena relación, en especial con Hermione debido a sus intereses por el estudio y el aprendizaje."
 		},
 		{
 			"id": 8,
@@ -126,7 +132,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/charlesWeasley.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Asistió al Colegio Hogwarts de Magia y Hechicería desde 1984 hasta 1991 y se clasificó en casa de Gryffindor. Fue tanto un Prefecto como capitán de Quidditch durante su tiempo en la escuela, después de lo cual fue a estudiar dragones en Rumania. Durante la Segunda Guerra Mágica, Charlie fue miembro de la segunda Orden del Fénix y luchó en la Batalla de Hogwarts en 1998, llegando con refuerzos durante la parte final de la batalla. También estuvo presente cuando Harry Potter derrotó a Lord Voldemort de una vez por todas. Charlie sobrevivió a la Segunda Guerra Mágica y continuó su trabajo con dragones. Nunca se casó y no tuvo hijos, pero a través de sus hermanos y sus respectivos matrimonios, tuvo muchas sobrinas y sobrinos."
 		},
 		{
 			"id": 9,
@@ -142,7 +149,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/ginnyWeasley.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Caballo"
+			"patronus": "Caballo",
+      "history":"Ginny asistió al Colegio Hogwarts de Magia y Hechicería desde 1992 - 1999 y fue ordenada en la Casa de Gryffindor. Durante su primer año, desarrolló un enamoramiento de larga data en Harry Potter. También durante su primer año, quedó bajo la influencia del recuerdo del ser de dieciséis años de Tom Ryddle. La memoria se conservó en un diario, lo que obligó a Ginny a reabrir la Cámara de los Secretos, poniendo en peligro las vidas de muchos estudiantes, incluida ella misma. Después de esa terrible experiencia, Ginny se convirtió en una jovencita segura, convirtiéndose en un miembro importante del Ejército de Dumbledore, una organización enseñada y dirigida por Harry Potter en su cuarto año. Más tarde pelearía en la Batalla del Departamento de Misterios en (1996), la Batalla de la Torre de Astronomía (1997) y la Batalla de Hogwarts en (1998). También fue una jugadora de Quidditch, jugando de cazadora y de buscadora en diferentes momentos para el Equipo de Quidditch de Gryffindor. Después de la Segunda Guerra Mágica, Ginny se convirtió en una jugadora profesional de Quidditch para las Arpías de Holyhead. Al retirarse de las Arpías, Ginny se convirtió en la corresponsal principal de Quidditch para el Diario El Profeta . Finalmente se casó con Harry Potter y la pareja tuvo tres hijos; James Sirius (llamado así por el padre y padrino de Harry), Albus Severus (llamado así por Albus Dumbledore y Severus Snape), y Lily Luna Potter (llamado así por la madre de Harry y Luna Lovegood). En 2020, Ginny se había convertido en la editora de deportes para el Diario El Profeta."
 		},
 		{
 			"id": 10,
@@ -156,7 +164,10 @@
 				"hairColour": "Pelirrojo",
 				"eyesColour": "Marrones"
 			},
-			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/mollyWeasley.jpg"
+			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/mollyWeasley.jpg",
+      "howartsHouse":"Gryffindor",
+      "patronus":"Desconocido",
+      "history":"Matriarca de la familia Weasley, se casó con Arthur Weasley. Molly nació en el seno de la familia Prewett, hermana de Fabian y Gideon Prewett, dos miembros de la Orden del Fénix original que murieron en la Primera Guerra Mágica, siendo asesinados por los mortífagos. Molly y Arthur tuvieron seis hijos y una hija: Bill, Charlie, Percy, los gemelos Fred y George, Ron y Ginny. Molly era miembro de la Orden del Fénix reconstruída tras el regreso de Lord Voldemort y participó en la batalla final de la Segunda Guerra Mágica, asesinando a la mortífaga Bellatrix Lestrange. Ella vivió para ver a su familia expandirse aún más, con doce nietos en 2017."
 		},
 		{
 			"id": 11,
@@ -172,7 +183,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/arthurWeasley.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Comadreja"
+			"patronus": "Comadreja",
+      "history":"Mago de sangre pura al servicio del Ministerio de Magia, así como un miembro de la Orden del Fénix reconstruida en 1995. Él era un firme creyente en la igualdad de todas las personas mágicas y muggles y el patriarca de la Familia Weasley. Arthur nació de Septimus y Cedrella Weasley (de soltera Black) y tuvo al menos dos hermanos. Asistió al Colegio Hogwarts de Magia y Hechicería desde 1961 a 1968 y fue ordenado en la Casa Gryffindor. Poco después de graduarse, Arthur se casó con Molly Prewett. Durante la Primera Guerra Mágica, él y Molly tuvieron seis hijos - Bill, Charlie, Percy, los gemelos Fred y George, y Ron - y una hija, Ginny y no era un miembro de la Orden del Fénix, pero se desconoce si de alguna manera participó en la primera guerra. En algún momento después de graduarse de Hogwarts, Arthur comenzó a trabajar para el Ministerio, en la Oficina Contra el Uso Incorrecto de los Artefactos Muggles. En 1996, fue ascendido a jefe de la Oficina para la Detección y Confiscación de los Hechizos y Objetos Defensivos Falsos por el nuevo Ministro de Magia, Rufus Scrimgeour. Cuando la Segunda Guerra Mágica comenzó, Arthur se unió a la Orden. Mientras hacía guardia en el Departamento de Misterios, fue atacado por Nagini, la serpiente de Lord Voldemort, pero él tuvo una recuperación completa. Arthur participó en la Batalla sobre Little Whinging en 1997 y la Batalla de Hogwarts en 1998, en el que perdió a uno de sus hijos, sin embargo, sobrevivió a la guerra. Después de la guerra, vio a su familia ampliarse aún más con los matrimonios de muchos de sus hijos sobrevivientes."
 		},
 		{
 			"id": 12,
@@ -188,7 +200,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/neville.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "No corpóreo"
+			"patronus": "No corpóreo",
+      "history":"Es el actual profesor de Herbología del Colegio Hogwarts de Magia y Hechicería, al cual asistió desde 1991, y fue seleccionado para la Casa Gryffindor. Sus padres, Alice y Frank Longbottom, eran Aurores muy respetados y miembros de la primera Orden del Fénix. Poco después del nacimiento de Neville fueron torturados hasta la locura por cuatro mortífagos (Bellatrix, Rodolphus y Rabastan Lestrange junto con Barty Crouch Jr.) con el maleficio Cruciatus y debido a esto terminaron internados en la Sala Janus Thickey en el Hospital San Mungo de Enfermedades y Heridas Mágicas, haciendo que Neville tuviera que ser criado por su abuela. A lo largo de sus años en el colegio, Neville pasó de ser un chico tímido e introvertido a ser un valiente defensor de Hogwarts. Fue un miembro importante del Ejército de Dumbledore, luchó en la Batalla del Departamento de Misterios, la Batalla de la Torre de Astronomía y la Batalla de Hogwarts. Durante la Batalla de Hogwarts, después de haber rechazado la invitación para unirse a Voldemort por parte de los mortífagos, destruyó el séptimo y último Horrocrux cuando decapitó a Nagini. También co-dirigió el E.D. durante su último año en contra de los profesores mortífagos Alecto y Amycus Carrow. Tras el final de la Segunda Guerra Mágica, Neville sirvió brevemente como un Auror y más tarde se convirtió en el profesor de Herbología de Hogwarts y se casó con Hannah Abbott."
 		},
 		{
 			"id": 13,
@@ -204,7 +217,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/lunaLovegood.jpg",
 			"howartsHouse": "Ravenclaw",
-			"patronus": "Liebre"
+			"patronus": "Liebre",
+      "history":"la única hija de Xenophilius y Pandora Lovegood. Su madre murió accidentalmente mientras experimentaba con hechizos cuando Luna tenía nueve años y fue criada por su padre, editor de la revista El Quisquilloso, en una casa similar a una torre de ajedrez gigantesca cerca del pueblo de Ottery St. Catchpole en Devon. Luna asistió al Colegio Hogwarts de Magia y Hechicería desde 1992 hasta 1999 y pertenece a la Casa Ravenclaw. Es muy común verla con el trío, con Neville Longbottom y Ginny Weasley, siendo la única alumna de otra casa que se relaciona directamente con Gryffindor.En su cuarto año, Luna se unió al Ejército de Dumbledore, una organización enseñada y dirigida por Harry Potter, de la que se convirtió en un miembro importante. Ella participó en la Batalla del Departamento de Misterios de (1996) y la Batalla de la Torre de Astronomía en (1997), y co-dirigió el Ejército de Dumbledore reconstituido cuando Hogwarts cayó bajo el control de Lord Voldemort.  Debido a la disidencia política de su padre en ese momento, Luna fue secuestrada por Mortífagos siendo retenida y encarcelada en las mazmorras de la Mansión Malfoy durante meses. Fue liberada por Dobby junto con varios otros prisioneros en la primavera de 1998, y se quedó en El Refugio hasta que regresó a Hogwarts para participar en la batalla final de la Segunda Guerra Mágica. Después de la guerra, Luna se convirtió en un Magizoologista (naturalista mágica) descubriendo y clasificando muchas especies que nunca antes se habían encontrado. Finalmente se casó con Rolf Scamander, con quien tuvo hijos gemelos, Lorcan y Lysander Scamander. Los buenos amigos de Luna Harry y Ginny Potter también nombraron a su hija y tercer hijo, Lily Luna Potter, en honor a ella.A pesar de su corta aparición es uno de los personajes más populares de la saga, debido a su extraña personalidad. Su padre es Xenophilius Lovegood, director de la revista El Quisquilloso, que Luna siempre lee (en ocasiones al revés, asegurando que aparecen hechizos ocultos en ella). El diario es absurdo y cuenta muchas fanfarronadas, como es el caso del (nombre en clave) de Sirius Black, y la revuelta de duendes de Cornelius Fudge. Su madre, Pandora Lovegood, era una bruja muy capaz a la que le gustaba experimentar. Cuando Luna tenía nueve años, un experimento de su madre salió mal y falleció. Luna todavía la echa de menos a veces, pero piensa que la verá otra vez un día en la vida después de la muerte."
 		},
 		{
 			"id": 14,
@@ -220,7 +234,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/dracoMalfoy.jpg",
 			"howartsHouse": "Slytherin",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":" Por ser el hijo de un mortífago, a Draco le enseñaron a creer firmemente en la importancia de la pureza de sangre. Asistió al Colegio Hogwarts de Magia y Hechicería desde 1991 hasta 1998 y fue seleccionado en la Casa Slytherin. Durante sus años en Hogwarts, se hizo amigo de Vincent Crabbe, Gregory Goyle, Pansy Parkinson y otros compañeros de Slytherin, mientras él rápidamente desarrolló una rivalidad con Harry Potter. Fue nombrado prefecto de su casa y miembro de la Brigada Inquisitorial durante su quinto año, al final del cual fue encarcelado su padre en Azkaban después de la batalla del Departamento de Misterios. Lord Voldemort se encargó de Draco, con lo que fue un fracaso para Lucius, y se convirtió en un mortífago a la edad de dieciséis años, pero se desilusionó rápidamente con el estilo de vida. Draco no pudo completar su tarea - asesinar a Albus Dumbledore, que fue tomada por Severus Snape - y sólo cumplió con sus deberes por temor y de mala gana. Él y su familia desertaron horas antes del fin de la Batalla de Hogwarts con el fin de evitar el encarcelamiento en Azkaban después de la derrota de Voldemort. Draco finalmente se casó con Astoria Greengrass,a pesar de las opiniones de su padre debido a que ella era una sangre mestiza y tuvo al menos un hijo, Scorpius Malfoy, a quién se aseguró de enseñarle que el estatus de sangre no importa."
 		},
 		{
 			"id": 15,
@@ -236,7 +251,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/albusDumbledore.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Fénix"
+			"patronus": "Fénix",
+      "history":"En 1997 fue profesor de Transformaciones y más tarde director del Colegio Hogwarts de Magia y Hechicería. También se desempeñó como Jefe Supremo de la Confederación Internacional de Magos - (? - 1995) y como Jefe de Magos del Wizengamot (? - 1997). Era un mago de sangre mestiza, hijo de Percival y Kendra Dumbledore, y hermano mayor de Aberforth y Ariana Dumbledore. Su padre murió en Azkaban cuando Albus era joven, mientras que su madre y su hermana murieron más tarde en diversos accidentes. Sus pérdidas primerizas en gran medida le afectaron, incluso en su muerte, pero a su vez lo hicieron una mejor persona. Albus Dumbledore era considerado como el mago más poderoso de su época. Él era famoso por derrotar a Gellert Grindelwald, descubrir doce usos de la sangre de dragón, y su trabajo en alquimia con Nicolas Flamel. Fue a través de Albus que se formó la resistencia a la aparición de Lord Voldemort, ya que fue él quien fundó y dirigió la primera y segunda Orden del Fénix. Debido al hecho de que tenía una mente aguda, mucha valentía y un poder legendario, Albus Dumbledore se convirtió en el único mago al que Voldemort alguna vez temió. Él fue dueño de la Varita de Saúco desde 1945 hasta 1997, y era considerado por muchos como el mejor director que Hogwarts había tenido nunca. Cuando estaba a punto de morir a causa de un anillo maldito, planeó su propia muerte junto con Severus Snape. A pesar de que ya no vivía en ese momento, fue a través de las maquinaciones de Albus que Voldemort fue finalmente derrotado y la paz restaurada al mundo de los magos.Es el único director que fue sepultado en Hogwarts.[16] Un retrato de Albus Dumbledore todavía se mantiene en el despacho del director."
 		},
 		{
 			"id": 16,
@@ -252,7 +268,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/minervaMcgonagall.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Gato"
+			"patronus": "Gato",
+      "history":"Minerva asistió al Colegio Hogwarts de Magia y Hechicería y fue seleccionada para la Casa Gryffindor, pero el Sombrero Seleccionador tardó cinco minutos y medio en decidir si era Gryffindor o Ravenclaw, lo que la convirtió en una Hatstall.[5] Durante su séptimo año, fue nombrada Premio Anual. Después de su educación, Minerva trabajó durante dos años en el Ministerio de Magia y luego regresó a Hogwarts, donde se convirtió en Jefa de la Casa Gryffindor y profesora de Transformaciones. Aunque no era miembro de la Orden del Fénix durante la Primera Guerra Mágica, Minerva ayudó enormemente a la resistencia del Ministerio de Magia al espiar a los Mortífagos y brindarles a los Aurores información crucial sobre sus actividades. Finalmente, Minerva se convirtió al mismo tiempo, en diferentes momentos, en subdirectora y directora de Hogwarts. En 1995, se opuso a Dolores Umbridge, la Suma Inquisidora de Hogwarts. También protegió a los estudiantes de Alecto y Amycus Carrow desde 1997 hasta 1998. Como parte del nuevo movimiento de resistencia de la Orden del Fénix, Minerva luchó en varias batallas de ambas guerras, incluida la Batalla de la Torre de Astronomía y la Batalla de Hogwarts, donde ella lideró la resistencia contra Lord Voldemort. Minerva sobrevivió a la Segunda Guerra Mágica y continuó con su trabajo como directora, un título que aún ostentaba desde la época de Albus Potter en Hogwarts. Poco después, apareció en un cromo de la colección de brujas y magos famosos de las ranas de chocolate, un honor que jamás habría podido imaginar."
 		},
 		{
 			"id": 17,
@@ -268,7 +285,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/remusLupin.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Lobo"
+			"patronus": "Lobo",
+      "history":"Su sangre es mestiza y en su niñez fue mordido por el Hombre lobo Fenrir Greyback. Remus acudió al Colegio Hogwarts de Magia y Hechiceria al mismo tiempo que James Potter, Sirius Black, Lily Evans, Peter Pettigrew y Severus Snape. Fue seleccionado en la Casa Gryffindor y se hizo amigo de tres magos en particular, James, Sirius y Peter, con los cuales formó el grupo conocido como Los Merodeadores. En su quinto año fue nombrado Prefecto de su casa. Luego de salir de Hogwarts, se convirtió en un miembro de la Orden del Fénix junto a sus amigos del colegio, para luchar contra Lord Voldemort y sus Mortífagos, y cuando la Orden fue restablecida en 1995, volvió a formar parte de ella. En el año escolar 1993-1994, Remus aceptó una plaza en el Colegio Hogwarts de Magia y Hechicería como profesor de Defensa Contra las Artes Oscuras, pero al finalizar el año tuvo que abandonar el puesto ya que al Profesor Snape se le 'escapó' que él era un hombre lobo en la mesa de Slytherin. En 1996, Remus se infiltró en una manada de hombres lobo bajo las ordenes de Albus Dumbledore como miembro encubierto de la Orden del Fénix. En 1997, luego de la Batalla de la Torre de Astronomía, Nymphadora Tonks le confesó su amor y comenzaron una relación amorosa que terminó en matrimonio y la concepción de un hijo llamado Edward. Murió en combate durante la Batalla de Hogwarts el 2 de mayo de 1998, asesinado por Antonin Dolohov y siendo así el último de los cuatro Merodeadores en morir. Sin embargo, no tardó en ser vengado, ya que Filius Flitwick asesinó a Dolohov un par de horas más tarde."
 		},
 		{
 			"id": 18,
@@ -284,7 +302,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/rubeusHagrid.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Es un mago semi gigante, hijo del señor Hagrid y la giganta Fridwulfa y medio hermano del gigante Grawp. Asistió al Colegio Hogwarts de Magia y Hechicería en 1940 y fue seleccionado para la Casa Gryffindor. En tercer año de Hagrid, estuvo enmarcado por la apertura de la Cámara de los Secretos llevada a cabo por Tom Riddle, pero este inculpó a Hagrid ya que este tenía una Acromántula llamada Aragog como mascota, y Tom Riddle alegó que esta había atacado a varios estudiantes nacidos Muggles y, finalmente, mató a uno de ellos. A pesar que la varita de Hagrid se rompió y fue éste expulsado, fue entrenado como guardabosques de Hogwarts y se le permitió vivir en los terrenos del colegio, a petición de Albus Dumbledore. En 1991, a Hagrid se le dio la tarea de reintroducir a Harry Potter al mundo mágico. En 1993, Hagrid asumió el cargo de profesor de Cuidado de Criaturas Mágicas después de la jubilación del profesor Silvanus Kettleburn. Como miembro de la Orden del Fénix original y la restaurada, Hagrid luchó en varias batallas de la Primera y la Segunda Guerra Mágica, incluyendo la Batalla de Hogwarts en 1998. En 2017, él todavía vivía, y probablemente todavía enseñaba en Hogwarts y seguía siendo guardabosques."
 		},
 		{
 			"id": 19,
@@ -300,7 +319,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/siriusBlack.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Perro"
+			"patronus": "Perro",
+      "history":"Fue un mago de Sangre limpia, hijo de Orion y Walburga Black y hermano mayor de Regulus. Aunque era el heredero de la Familia Black, Sirius estaba en desacuerdo con las creencias de su familia en la pureza de la sangre desafiando a su familia al ser colocado en Gryffindor en lugar de Slytherin en el Colegio Hogwarts de Magia y Hechicería, al que asistió entre 1971 y 1978. Mientras la relación de Sirius con sus familiares se deterioraba, el creó una gran amistad con Remus Lupin,  Peter Pettigrew y especialmente con James Potter. Los cuatro amigos, también conocidos como Los Merodeadores, se unieron a la Orden del Fénix para luchar contra Lord Voldemort y sus mortífagos durante la Primera Guerra Mágica. Sirius también se volvió padrino de Harry Potter, hijo de James Potter y Lily Evans. Sin embargo, Peter Pettigrew traicionó a los Potter con Voldemort y Sirius fue culpado de la muerte de James y Lily Potter, al igual que de la muerte de Peter Pettigrew y doce Muggles durante su escape. Sirius fue enviado a Azkaban por doce años, eventualmente se convirtió en el primer caso conocido de fuga de la prisión tomando la forma de un gran perro negro debido a sus habilidades como Animago. Sirius demostró la culpabilidad de Pettigrew a su viejo amigo Remus y a su ahijado, Harry Potter. Después de que Lord Voldemort regresara en 1995, Sirius se volvió a unir a la Orden del Fénix. Fue asesinado por su prima Bellatrix Lestrange durante la Batalla del Departamento de Misterios. Gracias a la Piedra de la Resurrección, Sirius aparece ante Harry en compañía de James, Lily y Remus en 1998."
 		},
 		{
 			"id": 20,
@@ -316,7 +336,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/severusSnape.jpg",
 			"howartsHouse": "Slytherin",
-			"patronus": "Cierva"
+			"patronus": "Cierva",
+      "history":"Fue Maestro de Pociones (1981-1996), profesor de Defensa Contra las Artes Oscuras (1996-1997) y director (1997-1998) de Hogwarts, a la que asistió como estudiante desde 1971 hasta 1978. Snape desempeñó un papel esencial en las dos guerras contra Lord Voldemort. Severus Snape era un mago de sangre mestiza, hijo de la bruja Eileen Prince, y del muggle Tobías Snape. Fue criado en una vivienda muggle de la calle de la Hilandera que estaba muy cerca de la casa de la familia Evans. Conoció a Lily y Petunia Evans cuando tenía nueve años, y se enamoró de Lily, convirtiéndose en el mejor amigo de ella. En 1971 comenzó su primer año en Hogwarts, donde fue seleccionado para Slytherin. Severus se convirtió en el enemigo inmediato de James Potter y Sirius Black y fue una víctima frecuente de sus bromas. Snape fue desarrollando una pasión a las Artes Oscuras a una edad temprana, y prefirió la supremacía de la sangre pura en la Casa Slytherin, a pesar de su amor por Lily Evans, que era nacida de muggles. Esto puso en riesgo su amistad con Lily.En algún momento de la etapa escolar se peleó con Lily y terminaron con su amistad.Después de salir de la escuela se unió a los mortífagos, junto con varios de sus compañeros de Slytherin. Durante su etapa de mortífago fue él quien escuchó a hurtadillas la profecía que hablaba sobre Lord Voldemort y un niño nacido a finales de julio, hijo de los que habían desafiado al señor tenebroso en tres ocasiones y habían salido con vida. Solo pudo escuchar la mitad de la profecía ya que fue descubierto y lo echaron del lugar así que no pudo advertir a su amo de los peligroso que podría ser atacar a ese niño. Se arrepintió de haber hecho esto cuando se enteró de que Voldemort había empezado a perseguir a los Potter, y le pidió que cuando los atacara no matara a Lily. También le pidió a Dumbledore que los protegiera a todos, y se convirtió en su espía. Cuando Voldemort pierde su cuerpo y todos sus poderes en su fallido intento de matar a Harry Potter, Snape, sufriendo por la muerte de su amada, ayuda a Dumbledore a cuidar de Harry. Con enorme dificultad, Snape fue capaz de evitar que Lord Voldemort averiguara la verdad acerca de su lealtad. A pesar de las opiniones de la mayoría de los demás, Albus Dumbledore siempre confió en Snape por razones que se mantuvieron entre los dos hasta sus muertes. Después de su muerte, se revela que su profundo amor por Lily Evans lo llevó a arrepentirse, uniéndose a la causa de Dumbledore. La relación entre Dumbledore y Snape sería una en la que se forma una fuerte lealtad, hasta el punto de que Snape mata a Dumbledore porque éste último se lo pide. Antes de la muerte de Dumbledore, Snape se comprometió a proteger a los estudiantes de Hogwarts de los mortífagos, que inevitablemente iban a tomar el control del Ministerio de la Magia, así como del colegio. Snape más tarde participó en la Batalla de Hogwarts, pero fue asesinado por Nagini, la serpiente Horrocrux de Lord Voldemort quien se lo ordenó porque equivocadamente creía que Snape era el amo de la Varita de Saúco, una varita poderosa que Voldemort quería. Después de su muerte, Harry Potter se aseguró de que el retrato de Severus Snape se colocara en el despacho del director de Hogwarts, en honor a su heroísmo, a pesar de sus importantes diferencias personales."
 		},
 		{
 			"id": 21,
@@ -332,7 +353,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/bellatrixLestrange.jpg",
 			"howartsHouse": "Slytherin",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"También conocida como Bella, fue una bruja de sangre pura, hija de Cygnus y Druella Black y hermana mayor de Andrómeda y Narcissa. Asistió al Colegio Hogwarts de Magia y Hechicería en 1962 y fue sorteada en la casa de Slytherin. Después de Hogwarts, se volvió una Mortífaga fanáticamente leal a Lord Voldemort. Era una de las pocas mujeres en el grupo, al igual que una de los más peligrosos y sádicos seguidores de Voldemort. Si bien Bellatrix y Narcissa se casaron con magos de sangre pura, Andrómeda se casó con un nacido de muggle, lo cual deshonró a la familia. Para la culminación de la Primera Guerra Mágica, Bellatrix y su marido, Rodolphus Lestrange, torturaron a los Aurores Alice y Frank Longbottom al punto de causarles locura permanente, junto a sus camaradas mortífagos Rabastan Lestrange y Barty Crouch Jr. Ellos también intentaron buscar a Voldemort tras su caída. Ella junto con Rodolphus y Rabastan Lestrange estuvieron en Azkaban por la tortura de los padres de Neville Longbottom. Bellatrix fue sentenciada a encarcelamiento de por vida en Azkaban por el crimen, pero escapó en la fuga en masa de 1996, junto con otros nueve Mortífagos. Participó en muchas batallas de la Segunda Guerra Mágica, dándose la oportunidad de asesinar a cualquiera de sus parientes miembros de la Orden del Fénix, incluyendo a su primo Sirius Black y a su sobrina Nymphadora Tonks. También mató al elfo doméstico Dobby, y fue la última mortífaga remanente de la Segunda Guerra, durante la última batalla. Molly Weasley acabó con la vida de Bellatrix, su violencia y malicia durante la Batalla de Hogwarts."
 
 		},
 		{
@@ -349,7 +371,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/lordVoldemort.jpg",
 			"howartsHouse": "Slytherin",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"fue el mago tenebroso más poderoso de todos los tiempos. Siendo hijo del adinerado muggle Tom Ryddle Sr. y la bruja Merope Gaunt, nació con sangre mestiza, su madre murió poco después de dar a luz. Tom Ryddle Sr. dejó a su esposa una vez que ella quedó encinta, habiéndose librado del trance de una poción de amor, la cual había sido la única causa de su relación. Su hijo, Tom Ryddle, nació y fue criado en un orfanato muggle, aunque no tardó en ingresar al Colegio Hogwarts de Magia y Hechicería e incorporarse a la casa Slytherin en 1938. Tom Ryddle fue durante su vida temprana considerado el alumno más talentoso que jamás hubiera asistido a Hogwarts. Para el colegio en general, él parecía ser un joven de muchos modales y educación; sin embargo, Ryddle en realidad exhibía conductas de crueldad, sadismo, manipulación, sociopatía y megalomanía. Tras haber adquirido títulos de excelencia en cada prueba académica presentada, Ryddle se marchó de Hogwarts en 1945 y poco después intentó pedirle empleo al profesor Dippet, quien se lo negó. Después de eso trabajó en Borgin y Burkes y luego desapareció totalmente de la vista pública por un largo tiempo. Al haber adoptado las enseñanzas de las Artes Oscuras que descubrió en sus viajes, Tom Ryddle, ahora conocido exclusivamente bajo el nombre de Lord Voldemort, organizó un ejército enorme compuesto de seguidores que reclutó tanto en su periodo de formación como después de éste, así como de muchas criaturas mágicas con tenebrosos propósitos. Este ejército, conocido como los Mortífagos aunque en sus principios se les denominaba 'Caballeros de Walpurgis', dio inicio a una campaña sin precedentes de terror y violencia por toda Gran Bretaña. Este creciente conocimiento tenebroso, fue empleado por Voldemort para dividir su alma en ocho partes distintas, depositando siete en diversos objetos y conservando una, de este modo volviéndose prácticamente inmortal. Tras escuchar solo la mitad de una profecía referente a un solo ser que tendría el poder de destruirlo, Voldemort se aventuró a dar muerte al niño Harry Potter, de quien creía que la profecía hacía alución. Después de asesinar a los padres del niño, James y Lily Potter, Voldemort apuntó su varita al joven Harry. Sin embargo, debido al sacrificio de amor de Lily Potter, magia ancestral, la maldición de Voldemort fue desviada hacia él de regreso y como resultado su cuerpo fue destruido. Despojado de su poder, Voldemort huyó a un bosque desierto en Albania para esperar el día en que pudiera poseer un cuerpo y recuperar su poder. Tras trece años de esperar el día que ansiaba llegar, y con el uso de la sangre del mismo Potter, el Señor Tenebroso ascendió de nuevo. Aunque al principio permaneció oculto, Voldemort no tardó en revelarse, comenzando una sangrienta reconquista del mundo mágico. Después de dos años de guerra constante, Voldemort finalmente obtuvo el control del Ministerio de Magia, y gobernó casi sin enfrentar resistencia, salvo por algunos grupos opositores. A pesar de haber tomado el país, Voldemort seguía insatisfecho, ya que debía eliminar el peligro que la profecía significaba para él. Tras descubrir la ubicación de Potter, Voldemort se aventuró a definitivamente destruir al joven lanzando todas sus fuerzas en un asalto a Hogwarts. Al llegar al colegio, Voldemort enfrentó una rebelión a gran escala compuesta de educadores y estudiantes, así como miembros de la Orden del Fénix y residentes de Hogsmeade. Conforme la batalla se intensificaba, los Mortífagos se vieron obligados a retirarse al Gran Comedor, lugar en el que Voldemort confrontó a Harry Potter en un duelo, y, como todos sus Horrocruxes habían sido destruidos, Tom Sorvolo Ryddle fue finalmente muerto. El alma mutilada de Tom Ryddle fue confinada en un limbo por toda la eternidad, sin poder moverse o regresar como fantasma. Durante toda la saga, a pesar de ser el antagonista principal, se le ha descrito como un personaje ridículo y temeroso de la muerte hasta el extremo, llegando a inspirar, más que miedo, lástima."
 		},
 		{
 			"id": 23,
@@ -365,7 +388,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/argusFilch.jpg",
 			"howartsHouse": "Ninguna",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Es el vigilante y celador de Hogwarts. Es un hombre enojón, que odiaba a los estudiantes. Le gusta castigar y atrapar a los estudiantes, y se desanima cuando no lo lograba, esta obsesionado con atrapar a Peeves, pero nunca puede, ya que éste sólo obedecía al Barón Sanguinario el fantasma de la casa Slytherin."
 		},
 		{
 			"id": 24,
@@ -382,7 +406,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/dobby.jpg",
 			"howartsHouse": "",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Sus amos fueron magos tenebrosos que lo trataron cruelmente. En 1992 desobedeció a sus amos y trató de advertir a Harry Potter del complot para que la Cámara de los Secretos se volviera a abrir. Llegó a saber esto a través del contacto entre sus amos y Lord Voldemort. Al final de ese año escolar, después de que Harry había vencido el recuerdo de Tom Ryddle y había matado al Basilisco en la Cámara de los Secretos, Lucius Malfoy fue engañado para liberar a Dobby. Harry logró esto colocando su propio calcetín dentro del Diario de Tom Riddle. Lucius arrojó el calcetín con asco hacia el aire, donde Dobby lo atrapó. Dobby sufrió un período de desempleo, durante el cual a menudo fue excluido por no tener 'vergüenza' en lo que respecta a estar sin trabajo. En general, estaba contento de ser libre, aunque disfrutaba trabajar como pasatiempo. Dobby estaba encantado de estar fuera de las manos abusivas de los Malfoy, pero igualmente encantado de unirse al personal de Hogwarts. En Hogwarts podía ir y venir como quisiera, no tenía muchas tareas, y las que tenía eran bastante simples. Dobby solicitó algunas compensaciones por su trabajo y, finalmente, él y Dumbledore llegaron a un acuerdo. Dobby continuó trabajando en las cocinas de Hogwarts, por lo que se le pagó un Galeón por semana y tuvo un día libre cada mes. Él había sido acompañado a Hogwarts por su amiga Winky (quien había sido despedida recientemente) y así comenzó la nueva vida feliz de Dobby cerca de sus amigos más cercanos: Harry, Ron, y Hermione. En 1997 Dobby ayudó a Harry a espiar a Draco Malfoy junto con Kreacher. En 1998 siguió las órdenes de Aberforth Dumbledore para salvar las vidas de Harry y sus compañeros de los Mortífagos en la Mansión Malfoy. Durante este rescate fue herido de muerte por el cuchillo de Bellatrix Lestrange, pero apareció con éxito a Harry y Griphook para ponerse a salvo en El Refugio. Harry cavó la tumba de Dobby sin magia, en los jardines de El Refugio, y le grabó en la lápida de la tumba. 'Aquí yace Dobby, un elfo libre'."
 		},
 		{
 			"id": 25,
@@ -398,7 +423,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/doloresUmbridge.jpg",
 			"howartsHouse": "Slytherin",
-			"patronus": "Gato de pelo largo"
+			"patronus": "Gato de pelo largo",
+      "history":"Es una mujer de baja estatura y cuerpo rechoncho, generalmente descrita como semejante a un gran sapo, con ojos saltones y cabello corto y rizado de color café. Siempre lleva ropa de color rosa chillón, y feos y exagerados anillos en los dedos. De carácter altivo y arrogante, tiende a interrumpir a la gente cuando habla y a cortarles con un sonoro y particular carraspeo. Su voz es exageradamente aguda, como la de una niña, casi llegando al falsete. Aparentemente le tiene un odio exagerado a cualquier criatura que ella considera 'semihumana', como los centauros, los hombres-lobo e incluso a Hagrid por ser medio gigante, y también siente antipatía hacia los magos nacidos de muggles. Estas particularidades provocan el odio de Harry y sus compañeros del Ejército de Dumbledore. Dolores Umbridge era una bruja bajita, rechoncha y con cara de sapo, además de su característica voz chillona. Sus manos eran pequeñas, su varita inusualmente corta y su patronus un gato peludo. Ella tenía muy poco respeto por las criaturas mágicas, y las consideraba inferiores. Luchó contra los hombres lobo, y se creía con poder de mandar a los centauros por el simple hecho de tener un puesto importante en el Ministerio de Magia. Era una bruja del Ministerio de Magia, con el alto cargo de Subsecretaria del Ministro de Magia. Estuvo presente en el juicio de Harry Potter el 12 de agosto de 1995, e intentó desprestigiarle, con burlas y gracias que los presentes (con pocas excepciones) rieron a carcajadas. Sin embargo, había sido ella quien había enviado a los dos dementores a buscar a Harry. En el verano de 1995 el Ministerio de Magia escribió una ley que determinaba que si el Director de Hogwarts no encontraba profesor para una asignatura, el Ministerio podía elegir la persona que creyera conveniente para el cargo. Quien salió elegida fue Dolores Umbridge, obviamente con el propósito de estar cerca de las actividades de Albus Dumbledore y así poder vigilarle. Sus clases como profesora de Defensa Contra las Artes Oscuras fueron monótonas y aburridas, únicamente teóricas, pues se negaba a admitir que la práctica era necesaria. Según logró descubrir la Orden del Fénix, la razón de esto era que Cornelius Fudge quería impedir que los estudiantes de Hogwarts incrementasen sus habilidades prácticas en esta asignatura, con el fin de prevenir que se sublevaran contra el Ministerio de Magia al privarlos de la experiencia de aprender a llevar a cabo los hechizos por sí solos, poniéndoles un plan de enseñanza que no sólo no pusiera énfasis en esta clase de conocimientos, sino que procurase (inútilmente) convencer a los alumnos de Hogwarts de que no necesitaban saber cómo realizar hechizos defensivos. Umbridge trató de eliminar todo rumor sobre el retorno de Lord Voldemort con castigos que involucraban una pluma que escribía con la sangre del castigado y producía heridas en su mano. Se convirtió en Suma Inquisidora de Hogwarts, con muchos poderes, y fue capaz de escribir nuevas normas. El Ejército de Dumbledore se formó para suplir sus inútiles clases, pero pronto ella descubrió la actividad del grupo. Por culpa de Marietta Edgecombe, la soplona, Umbridge descubrió el propósito del grupo, pero entonces Dumbledore 'admite' su culpabilidad y se marcha de Hogwarts. Desde ese momento hasta el final de curso, Dolores Umbridge se convierte en directora de Hogwarts, pero sin acceso al Despacho del Director (ya que la gárgola no le permitió ingresar). Al final de curso fue atacada por un grupo de centauros y rescatada por Dumbledore. Después de este incidente (de donde sale con vida milagrosamente) fue a parar a la enfermería de Hogwarts. Dumbledore le exigió a Cornelius Fudge que Umbridge dejara el cargo y el colegio. Umbridge regresó al Ministerio de Magia, donde siguió gozando de los mismos privilegios que antes, como si nada hubiese ocurrido, hasta 1998. Su despacho estaba en el nivel 1 y su puerta tenía el ojo mágico de Alastor Moody, hasta que Harry lo retiró de ahí. Estuvo presente en el funeral de Dumbledore. Cuando Mundungus Fletcher estaba vendiendo cosas robadas en el Callejón Diagon, Umbridge le confiscó el Guardapelo de Salazar Slytherin y se lo quedó para uso personal, asegurando que era una prueba de que era descendiente de los Selwyn. Ella podía seguir invocando su Patronus con el guardapelo gracias a la afinidad que existía entre la bruja y el objeto tenebroso, lazo que no tenía con Harry. Umbridge aseguró que estaba emparentada con la mayoría de las familias de sangre pura del mundo mágico. El trío consiguió quitárselo durante un juicio de la Comisión de Registro de Nacidos Muggles. Con la caída definitiva de Lord Voldemort, Kingsley Shacklebolt ascendió como Ministro de Magia, Umbridge fue arrestada, interrogada y encarcelada por crímenes contra los nacidos de muggles."
 		},
 		{
 			"id": 26,
@@ -414,7 +440,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/colagusano.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Ninguno"
+			"patronus": "Ninguno",
+      "history":"Comenzó a asistir a Colegio Hogwarts de Magia y Hechicería en 1971 y se clasificó en la Casa Gryffindor después de que el Sombrero Seleccionador reflexionara sobre a qué casa pertenecía durante más de cinco minutos , un verdadero Hatstall. Durante sus años en Hogwarts, se convirtió en uno de los Merodeadores; era el mejor amigo de Sirius Black, James Potter, y Remus Lupin, y juntos crearon el Mapa del Merodeador. Durante la Primera Guerra Mágica, Peter fue miembro de la Orden del Fénix, pero se convirtió en un espía cuando fue obligado a unirse a Lord Voldemort. Se hizo Guardián Secreto para los Potter cuando se escondieron con el uso del Encantamiento Fidelio, y traicionó a James, su esposa Lily, y su hijo Harry entregándolos a Lord Voldemort. Después de la caída de Voldemort, fingió su propia muerte e incriminó a Sirius por traicionar a James y Lily, así como por su propio asesinato y los de las víctimas Muggle que mató durante su huida. Peter pasó 12 años viviendo en su forma animaga como la rata mascota de la Familia Weasley, Scabbers. Sin embargo, su identidad fue expuesta por Sirius y Remus en 1994, y Pettigrew, que no tiene a dónde ir, buscó protección para volver al servicio de Lord Voldemort, a quien encontró en el bosque de Albania. Pettigrew desempeñó un papel clave en el renacimiento de Voldemort y continuó sirviéndolo durante la Segunda Guerra Mágica. En la primavera de 1998, durante la Escaramuza en la Mansión Malfoy, en un momento de extraña misericordia, dudó en estrangular a Harry. La mano de plata que Lord Voldemort le había dado a Pettigrew interpretó su vacilación como debilidad y/o deslealtad, y lo estranguló hasta la muerte."
 		},
 		{
 			"id": 27,
@@ -430,7 +457,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/luciusMalfoy.jpg",
 			"howartsHouse": "Slytherin",
-			"patronus": "Ninguno"
+			"patronus": "Ninguno",
+      "history":" Lucius era un hombre aristocrático, y, además, mortifago, y como tal tenía una obsesión con la pureza de sangre por lo que doctrinó a su hijo Draco con los mismos ideales. Fue fiel a Lord Voldemort, uniéndose a los mortífagos y participó en la Primera Guerra Mágica. Después de la primera derrota de Voldemort, Lucius logró evitar que lo encarcelaran alegando que había sido controlado por el maleficio Imperius. Intentó sabotear a Arthur Weasley haciendo que su hija, Ginny, abriera la Cámara de los Secretos en 1992. Los Malfoy han tenido como sirviente un elfo doméstico llamado Dobby por muchos años, pero Lucius lo liberó inadvertidamente por culpa de la prenda que le regaló Harry Potter. La familia Malfoy fue fiel a Lord Voldemort durante la Primera y Segunda Guerra Mágica, pero desertó a la conclusión de esta última. Evitó ir a Azkaban luego del final de la guerra brindándole al Ministerio de Magia los nombres de mortífagos que se encontraban huyendo luego de la caída definitiva de Lord Voldemort en 1998."
 		},
 		{
 			"id": 28,
@@ -446,11 +474,12 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/narcisaMalfoy.jpg",
 			"howartsHouse": "Slytherin",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Aunque nunca se declaró oficialmente como mortífaga, Narcisa creía en la importancia de la pureza de la sangre, y estaba a favor de que su marido siguiera a Lord Voldemort durante la Primera y la Segunda Guerra Mágica. Esto, sin embargo, cambió cuando su esposo fue encarcelado en Azkaban y la vida de su hijo se vio en peligro, entre 1996 y 1997. Narcisa hizo todo lo posible por proteger a su familia; incluso mintió a Voldemort sobre la muerte de Harry Potter durante la Batalla de Hogwarts, un acto que salvó a los Malfoy de ser enviados a Azkaban después del fin de la guerra si perdía el Señor Tenebroso. Narcisa sobrevivió a la batalla final de la Segunda Guerra Mágica y más tarde tuvo un nieto, Scorpius Hyperion Malfoy, a través del matrimonio de su hijo con Astoria Greengrass. Sin embargo, a Narcisa no le gustaba Astoria por su postura sobre la tolerancia de la sangre."
 		},
 		{
 			"id": 29,
-			"figure": "Nymphadora Lupin",
+			"figure": "Nymphadora Tonks",
 			"nickname": "Tonks",
 			"maritalStatus": "Casada con Remus Lupin",
 			"blood": "Sangre mestiza",
@@ -462,7 +491,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/nymphadoraLupin.jpg",
 			"howartsHouse": "Hufflepuff",
-			"patronus": "Liebre y lobo"
+			"patronus": "Liebre y lobo",
+      "history":"Ella era metamorfomaga y asistió al Colegio Hogwarts de Magia y Hechicería desde 1984 hasta 1991. Fue clasificada en Hufflepuff y estuvo en el mismo año en Hogwarts que el Gryffindor Charlie Weasley. Después de dejar Hogwarts, Tonks se unió al Ministerio de Magia y se entrenó para convertirse en una Auror bajo la atenta mirada de Alastor Moody, calificando en 1994. En 1995, Tonks se unió a la segunda Orden del Fénix, trabajando de manera encubierta en el Ministerio y ayudando a proteger al Departamento de Misterios. En junio de 1996 luchó en la Batalla del Departamento de Misterios y en algún momento se enamoró de Remus Lupin. Remus (un hombre lobo) sentía que era demasiado pobre, viejo y peligroso para ella y, por lo tanto, rechazó sus sentimientos, aunque sentía lo mismo. A raíz del regreso de Lord Voldemort, Tonks fue asignada a Hogsmeade como parte de la fuerza de tarea Auror enviada para proteger a Hogwarts. Tonks peleó más tarde en la Batalla de la Torre de Astronomía y, después de ver el amor que Fleur Delacour mantenía por Bill Weasley a pesar de sus lesiones, declaró públicamente su amor por Remus. Tonks y Remus se casaron en el verano de 1997. Ella quedó embarazada poco después y Remus comenzó a preocuparse de que le hubiera transmitido su condición de hombre lobo a su hijo, aunque este no fue el caso (Teddy heredó las habilidades metamórficas de su madre). Remus, en respuesta a esto, intentó dejar a Tonks, pero Harry Potter lo convenció para que regresara con ella. Ella dio a luz a un hijo, Teddy Remus Lupin (nombrado así por su difunto padre Edward Tonks) poco después de la Pascua en 1998 y la pareja nombró a Harry el Padrino. El 2 de mayo de 1998, Tonks luchó en la Batalla de Hogwarts y fue asesinada por Bellatrix Lestrange. Bellatrix era su tía materna y mortífaga, una leal y devota servidora de Lord Voldemort. El asesinato de Tonks fue vengado por su colega de la orden y amiga Molly Weasley. Después de su muerte, su hijo fue criado por su madre y Harry Potter."
 		},
 		{
 			"id": 30,
@@ -478,7 +508,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/dudleyDursley.jpg",
 			"howartsHouse": "Ninguno",
-			"patronus": "Ninguno"
+			"patronus": "Ninguno",
+      "history":"Primo de Harry Potter. Tenía sobrepeso y un comportamiento insolente debido a que sus padres lo malcriaron durante su niñez. Él y su pandilla atormentaban a Harry tomando el ejemplo de sus padres, así como también lo hicieron a otros niños débiles del vecindario. Maltrató física y psicológicamente a Harry por el hecho de ser huérfano y que sucediesen cosas raras a su alrededor, pero tras sufrir un ataque de dementores y ser salvado por su primo en 1995, mejoró su conducta hacia él. En 1997, abandonó su casa junto a su familia para esconderse de Lord Voldemort y sus mortífagos, bajo la protección de la Orden del Fénix. Después de la Segunda Guerra Mágica se casó con una mujer y tuvo "
 		},
 		{
 			"id": 31,
@@ -494,7 +525,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/fleurIsabelle.jpg",
 			"howartsHouse": "Academia Mágica de Beaixbatons",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Es una bruja francesa, cuarto parte Veela hija de Apolline Delacour y su esposo, y hermana mayor de Gabrielle. Fleur asistió a Academia Mágica Beauxbatons. Durante el Año escolar 1994-1995 , ella fue campeona de Beauxbatons en el Torneo de los Tres Magos. Fleur compitió valientemente, pero el Torneo terminó en tragedia con el asesinato de Cedric Diggory y el regreso de Lord Voldemort. En el verano siguiente, Fleur tomó un trabajo a tiempo parcial en Gringotts para mejorar su inglés, y comenzó a salir con su compañero de trabajo Bill Weasley. La pareja pronto se comprometió y Fleur se hospedó en La Madriguera en el verano de 1996 para conocer mejor a la familia de Bill, un hecho que Ginny Weasley no le gustó mucho, apodándola 'Flegggrrr'.  Fleur llegó a raíz de la Batalla de la Torre de Astronomía en 1997 durante el cual su prometido fue gravemente herido por el Hombre lobo Fenrir Greyback. La pareja estaba casándose en agosto de ese año; sin embargo, la boda fue interrumpida por Mortifagos luego de la caída del Ministerio de Magia. Fleur y Bill tomaron residencia en El Refugio, y más tarde ayudaron a Harry Potter, Ron Weasley, y Hermione Granger con Dumbledore en busca de su escape de Mansión Malfoy, ofreciéndoles alojamiento y comida. Fleur luchó junto a su marido en la Batalla de Hogwarts en 1998. Después de la Segunda Guerra Mágica, ella y Bill tuvieron tres hijos; Victoire, Dominique, y Louis Weasley. Fue galardonada con medallas de valentía por el ministerio francés y Ministerio británico debido a su participación en la Batalla de Hogwarts."
 		},
 		{
 			"id": 32,
@@ -510,7 +542,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/jamesPotter.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Ciervo"
+			"patronus": "Ciervo",
+      "history":" Ingresó al Colegio Hogwarts de Magia y Hechicería en 1971 y se graduó en 1978, perteneciendo a la casa de Gryffindor. Al empezar el Colegio, conoció a sus mejores amigos Sirius Black, Remus Lupin y Peter Pettigrew. También conoció a Severus Snape, quien fue inmediatamente su rival, y a Lily Evans, su interés romántico.  Durante su séptimo año, James fue nombrado Premio Anual y empezó a salir con Lily Evans, quien luego fue su esposa. Juntos, tuvieron un hijo llamado Harry. James, Lily y sus amigos lucharon en la Primera Guerra Mágica como miembros de la Orden del Fénix, él y su esposa se enfrentaron a Lord Voldemort tres veces. Además, James y Lily tuvieron que esconderse después de escuchar la Profecía relacionada con Lord Voldemort y su pequeño hijo. Desgraciadamente, James y Lily fueron traicionados por uno de sus amigos, Peter Pettigrew. James fue asesinado por Voldemort en el Valle de Godric en 1981 tratando de proteger a su hijo y a su esposa. Luego James aparece nuevamente por la Piedra de la Resurrección junto a Lily, Sirius y Remus en mayo de 1998."
 		},
 		{
 			"id": 33,
@@ -526,7 +559,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/lilyPotter.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Cierva"
+			"patronus": "Cierva",
+      "history":"Ella descubrió que era una bruja cuando era una niña, después de que un niño que vivía cerca de donde ella vivía le contó de la existencia de la magia. Los dos se hicieron grandes amigos, comentando y aprendiendo de Severus sobre el mundo mágico Lily se distanció un poco de su hermana Petunia. Ella comenzó a asistir al Colegio Hogwarts de Magia y Hechicería desde 1971 hasta 1978, y fue seleccionada para la casa de Gryffindor. Talentosa estudiante, Lily fue miembro del club del profesor Horace Slughorn. Su amistad con Snape terminó en quinto año, después de que él, en un momento de frustración y vergüenza, la llamara sangre sucia. Aunque Snape siempre la amó, Lily se casó con James Potter. Ella y James se unieron a la Orden del Fénix después de graduarse y pelearon en la Primera Guerra Mágica, enfrentándose ella misma a Lord Voldemort en tres ocasiones. Esto hizo que éste persiguiera a su único hijo, Harry, cuando una profecía declaró que una persona tendría poder para destruirlo; así que Voldemort atacó a los Potter el 31 de octubre de 1981. Después de matar a James, le ofreció a Lily la oportunidad de huir, a pedido de Snape, pero Lily se negó y Voldemort la mató. Este sacrificio de amor le dio a su hijo tal protección que lo convirtió en la única persona capaz de sobrevivir a la maldición asesina."
 		},
 		{
 			"id": 34,
@@ -542,7 +576,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/alastorMoody.jpg",
 			"howartsHouse": "Ravenclaw",
-			"patronus": "Ave Rapaz"
+			"patronus": "Ave Rapaz",
+      "history":"Empezó siendo un auror desde 1951 hasta 1985, cuando lo obligaron a abandonar su trabajo debido a su creciente paranoia. Encerró a muchos de los más importantes mortífagos en 1981 (Igor Karkarov, Antonin Dolohov, Mulciber, Travers) y otros se vio obligado a matarlos (Evan Rosier y Wilkes). Su trabajo se vio en diversas ocasiones detenido por fuertes heridas de las que no se pudo reponer, debido a magia negra. Además de miles de cicatrices en su cara; le faltaba un trozo de nariz, perdió un ojo (el cual reemplazó con un ojo giratorio mágico) y una pierna . Durante el verano de 1994, Moody accedió a trabajar como profesor de Defensa Contra las Artes Oscuras en el Colegio Hogwarts de Magia y Hechicería para Albus Dumbledore durante un año. Tal favor lo hizo solo porque mantenía una gran amistad con Dumbledore, para después volver a su retiro. Sin embargo, la mañana del 1 de septiembre, Moody fue atacado por Peter Pettigrew y Bartemius Crouch Jr. en su casa, haciendo ruido para despertarlo y explotando varios contenedores de basura. Moody hizo un verdadero alboroto y envió un patronus a Amos Diggory, pero por su paranoia todos pensaron que estaba loco y el Ministerio desoyó su pedido de auxilio, pensando incluso en sancionarlo por el tumulto ante los muggles. Arthur Weasley fue a verlo, pero para entonces, Moody había sido suplantado por Crouch Jr. por medio de la poción Multijugos, y Moody ya había sido encerrado en su propio baúl de siete cerraduras, ya que lo necesitaba para conseguir cabello para la poción. Moody pasó casi diez meses encerrado en el baúl, mientras que Crouch Jr. fingía ser él y daba sus clases. El mortífago lo alimentó tan sólo lo suficiente para que no muriera y utilizó la legeremancia y el maleficio Imperius para sacar información del pasado de Moody y así saber como debía comportarse siendo él. Moody finalmente fue sacado el 24 de junio de 1995, cuando Crouch Jr. logró restaurar el poder de lord Voldemort usando sangre de Harry Potter. Estaba muy delgado y frío, pero según Dumbledore, no estaba en peligro inminente. Tras ser liberado, la paranoia y el nerviosismo de Moody aumentaron, sobresaltándose cada vez que alguien le hablaba y mirando con su ojo mágico toda la habitación. Participó en la Segunda Guerra Mágica, volviendo como líder de las misiones de la Orden del Fénix, mientras Dumbledore fue el jefe de esta. Participó en la Batalla del Departamento de Misterios y venció, junto con los otros miembros de la Orden, sobre los Mortífagos. Luego de que el director muriera, el día 30 de junio de 1997, Moody ascendió como jefe por un mes, dirigiendo al grupo en la Batalla sobre Little Whinging, donde fue alcanzado por un maleficio, cayó de su escoba y murió al impactar contra el suelo. Dolores Umbridge encontró su ojo mágico y lo utilizó para vigilar en su despacho."
 		},
 		{
 			"id": 35,
@@ -558,7 +593,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/oliverWood.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Fue un mago escocés quien fue el guardián y capitán del equipo de Quidditch de Gryffindor. Asistió al Colegio Hogwarts de Magia y Hechicería desde 1987 a 1994, y era conocido por su determinación y su habilidad en el campo de juego, y sus clases mucho antes de las prácticas. Oliver dirigió el equipo de Gryffindor a la victoria en la Copa de Quidditch en su séptimo año.Después de salir de la escuela, se unió a Puddlemere United como jugador de reserva (posiblemente como guardián). En 1998, Oliver regresó a Hogwarts para luchar en la Batalla de Hogwarts contra Lord Voldemort junto a sus amigos y compañeros de escuela."
 		},
 		{
 			"id": 36,
@@ -573,8 +609,9 @@
 				"eyesColour": "Azules"
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/vernonDursley.jpg",
-			"howartsHouse": "",
-			"patronus": ""
+			"howartsHouse": "Ninguno",
+			"patronus": "Ninguno",
+      "history":"Era un muggle, marido de Petunia Dursley, padre de Dudley Dursley y tío de Harry Potter."
 		},
 		{
 			"id": 37,
@@ -589,8 +626,9 @@
 				"eyesColour": "Café"
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/petuniaDursley.jpg",
-			"howartsHouse": "",
-			"patronus": ""
+			"howartsHouse": "Ninhuno",
+			"patronus": "Ningino",
+      "history":"Es la tía biológica de Harry Potter. Es descrita como una mujer rubia con manos huesudas, cara de caballo y un cuello muy largo y delgado, que usa para espiar a sus vecinos. Sigue obsesivamente las noticias del corazón sobre divorcios entre estrellas de cine mientras dice paradójicamente, «como si a nosotros nos interesaran sus sórdidos asuntos personales». Su familia entera fue de muggles, excepto su hermana Lily que fue bruja. Según Petunia, el señor y la señora Evans estaban orgullosos de tener una bruja en la familia, pero Petunia veía a su hermana como una desgracia. En el primer libro, Petunia se refiere a Lily como una «monstruosidad», pero en la película se utiliza el término «doña perfecta», demostrando sus celos."
 		},
 		{
 			"id": 38,
@@ -606,7 +644,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/trelawney.jpg",
 			"howartsHouse": "Ravenclaw",
-			"patronus": "No corpóreo"
+			"patronus": "No corpóreo",
+      "history":"Era una bruja y profesora de Adivinación, junto a Firenze, en el Colegio Hogwarts de Magia y Hechicería. La tataranieta de la célebre vidente Cassandra Trelawney. Fue Trelawney quien hizo la profecía acerca de Voldemort y el que tiene el poder para vencerlo (Voldemort eligió como mayor amenaza a Harry Potter), durante su entrevista de trabajo con Albus Dumbledore. Al final del año escolar 1993-1994, predijo con exactitud el escape de Peter Pettigrew y el regreso de Lord Voldemort. Dos años más tarde en la escuela, Trelawney estaba angustiada en gran medida por Dolores Umbridge, que la despidió y trató de desterrarla del Castillo de Hogwarts, aunque Dumbledore le permitió permanecer en la escuela. Ella estaba muy ofendida cuando más tarde tuvo que enseñar junto al centauro Firenze, y participó en la Batalla de Hogwarts, dejando caer las bolas de cristal sobre las cabezas de los mortífagos y atendiendo a los heridos junto a Padma Patil. En el 2010, la profesora Trelawney seguía prediciendo la muerte de sus alumnos. Desde que Firenze fue bienvenido de regreso a su rebaño, es posible que ella enseñara Adivinación por su cuenta otra vez."
 		},
 		{
 			"id": 39,
@@ -622,7 +661,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/myrtleWarren.jpg",
 			"howartsHouse": "Ravenclaw",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Era una bruja nacida de muggles que asistió al Colegio Hogwarts de Magia y Hechicería, donde se clasificó en Ravenclaw. La mató en 1943 el Basilisco de Salazar Slytherin, bajo las órdenes de Lord Voldemort. Es un fantasma que habita el baño de las chicas del segundo piso (y, ocasionalmente, otros baños) de Hogwarts. Se la conoce como 'Myrtle la Llorona'."
 		},
 		{
 			"id": 40,
@@ -638,7 +678,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/seamusFinnigan.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Raposa"
+			"patronus": "Raposa",
+      "history":"Alumno de Gryffindor del mismo año que Harry Potter. De ascendencia irlandesa, pelo de color arena y gran fanático del Quidditch. Es de sangre mestiza, pues su padre es muggle. Siente pasión por la pirotecnia, que es demostrada en 1998 antes de la Batalla de Hogwarts."
 		},
 		{
 			"id": 41,
@@ -654,7 +695,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/gilderoyLockhart.jpg",
 			"howartsHouse": "Ravenclaw",
-			"patronus": "No corpóreo"
+			"patronus": "No corpóreo",
+      "history":"Fue un mago famoso, supuesto autor de muchos libros acerca de las monstruosas criaturas y su encuentro personal con ellas. Fue profesor de Defensa Contra las Artes Oscuras en Hogwarts en el período comprendido entre 1992-1993. Ha recibido diversos honores: Caballero de la Orden de Merlín, de tercera clase, Miembro Honorario de la Liga de Defensa Contra las Artes Oscuras, y ganador en cinco ocasiones del Premio a la Sonrisa más Encantadora, otorgado por la revista Corazón de bruja. Sin embargo, nunca llevó a cabo ninguna hazaña heroica, como cuentan sus libros. Su única real habilidad son los hechizos desmemorizantes, por medio de los cuales forzaba a las personas que realizaron las heroicidades de sus obras literarias a olvidar lo que habían hecho y, de paso, se ganaba un mérito ajeno. Lockhart perdió la memoria el 29 de Mayo de 1993 a causa de que intentó hechizar a Harry Potter con un hechizo desmemorizante, y este rebotase contra él, tras usar la estropeada varita mágica de Ron Weasley en la Cámara de los Secretos. Actualmente, Lockhart sigue internado en el Hospital San Mungo de Enfermedades y Heridas Mágicas y según J.K. Rowling 'Él está feliz donde está y yo estoy feliz sin él'."
 		},
 		{
 			"id": 42,
@@ -669,8 +711,9 @@
 				"eyesColour": "Grises"
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/cedricDiggory.jpg",
-			"howartsHouse": "Hafflepuff",
-			"patronus": "Desconocido"
+			"howartsHouse": "Hufflepuff",
+			"patronus": "Desconocido",
+      "history":" Comenzó a asistir al Colegio Hogwarts de Magia y Hechicería en 1989, y fue seleccionado para la casa Hufflepuff. Durante su estancia en el colegio fue prefecto y capitán del equipo de Quidditch de Hufflepuff, jugando como buscador. En su sexto año Cedric puso su nombre para competir en el Torneo de los Tres Magos. Fue seleccionado como campeón de Hogwarts y, aunque fue opacado en la prensa por Harry Potter, Cedric disfrutó casi del mismo apoyo del cuerpo estudiantil y luego de las primeras dos pruebas quedó empatado con Harry en el primer lugar. Cedric y Harry completaron el la tercera prueba juntos. Ambos agarraron la Copa de los Tres Magos, la cual los trasladó al cementerio de Pequeño Hangleton. En el cementerio, Cedric fue asesinado por Peter Pettigrew con la maldición asesina, bajo las órdenes de Lord Voldemort. Durante el siguiente duelo entre Harry y Voldemort, el eco de Cedric reapareció durante Priori Incantatem y ayudó a los ecos de los padres de Harry, Bertha Jorkins y Frank Bryce a retener a Voldemort lo suficiente para que Harry pudiera escapar. Su única petición fue que Harry le llevara su cuerpo a sus padres, lo cual Harry honró. En 2020, la participación de Diggory en el Torneo de los Tres Magos y su subsecuente muerte fue el tema del viaje en el tiempo de Albus Potter y Scorpius Malfoy por petición de Amos. Ellos buscaron salvar a Cedric y crearon una línea de tiempo alternativa en donde Cedric sobrevivió y se volvió parte de los mortífagos, debido a la humillación que le causaron cuando intentaron salvarle la vida. La heroica vida y muerte original de Cedric fue luego restaurada."
 		},
 		{
 			"id": 43,
@@ -686,7 +729,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/choChang.jpg",
 			"howartsHouse": "Ravenclaw",
-			"patronus": "Cisne"
+			"patronus": "Cisne",
+      "history":"Fue Buscadora del equipo de Quidditch de su casa y una estudiante popular. En quinto año de Cho, ella comenzó a salir con Cedric Diggory mientras era Campeón en el Torneo de los Tres Magos. Cedric se convirtió en una de las primeras bajas de la Segunda Guerra Mágica. Fue asesinado por Peter Pettigrew por orden de Lord Voldemort en junio de 1995. Su muerte hirió enormemente a Cho y la hizo decidida a luchar contra el recientemente devuelto Señor Tenebroso. En su sexto año, contra los deseos de sus padres, se unió al Ejército de Dumbledore, una organización enseñada y dirigida por Harry Potter. En el mismo año ella también comenzó una relación romántica con Harry. Sin embargo, la mejor amiga de Cho Marietta Edgecombe traicionó al E.D. Después de la traición de su amiga, la relación de Cho y Harry se derrumbó. Permaneció leal a su escuela y al E.D., regresando después de haberse graduado para participar en la Batalla de Hogwarts. Cho sobrevivió a la Segunda Guerra Mágica y finalmente se casó con un muggle."
 		},
 		{
 			"id": 44,
@@ -702,7 +746,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/viktorKrum.jpg",
 			"howartsHouse": "Instituto Durmstrang",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Asistió al Instituto Durmstrang, y también fue Buscador para el Equipo Nacional de Quidditch Búlgaro a la edad de dieciocho años cuando aún estaba en la escuela. En 1994, jugó en la final de la Copa Mundial de Quidditch de 1994. La Selección de Irlanda ganó el partido, pero Viktor atrapó a la snitch para terminar lo mejor posible. Más adelante durante ese año, formó parte de la delegación de Durmstrang enviada al Colegio Hogwarts de Magia y Hechicería para el Torneo de los Tres Magos. Fue seleccionado por el Cáliz de Fuego como Campeón de Durmstrang, y compitió valientemente. Sin embargo, el Torneo terminó en tragedia con la muerte de Cedric Diggory, y Viktor regresó a casa. En 1997, asistió a la boda de Fleur Delacour y Bill Weasley. Se retiró del Quidditch después de la derrota búlgara en la final de la Copa Mundial de Quidditch del 2002, pero salió de su retiro para competir en la Copa Mundial del 2014, por un deseo 'de ganar la Copa del Mundo antes de morir'. El equipo búlgaro ganó la Copa del Mundo ese año, luego de vencer a Brasil."
 		},
 		{
 			"id": 45,
@@ -718,7 +763,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/ritaSkeeter.jpg",
 			"howartsHouse": "",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Fue una bruja que trabajó como reportera de El Profeta. Albus Dumbledore describió su forma de escribir como 'encantadoramente grosera' después de que escribiera un artículo desagradable sobre él, mencionando que, a su juicio, le había descrito como un imbécil obsoleto. Rita cubrió varias noticias de interés, tales como los juicios de varios Mortífagos tras la Primera Guerra Mágica, el Torneo de los Tres Magos y el testimonio de Harry Potter sobre el regreso de Lord Voldemort al poder en 1995. También escribió algunas biografías sobre personajes de actualidad, entre los cuales están Armando Dippet, Albus Dumbledore, Severus Snape y Harry Potter. La forma de escribir de Rita eran considerada como sensacionalista y, a veces, muy deshonesta. Su habilidad de conseguir información se debía a sus capacidades de animago no registrado, ya que tomaba la forma de un escarabajo."
 		},
 		{
 			"id": 46,
@@ -734,7 +780,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/ollivander.jpg",
 			"howartsHouse": "Ravenclaw",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Fue un mago de sangre mestiza y el propietario de la Tienda de Varitas Ollivanders en el Callejón Diagon. Ollivander es ampliamente considerado como el mejor fabricante de varitas del mundo, y muchos magos y brujas compran sus varitas en su tienda."
 		},
 		{
 			"id": 47,
@@ -750,7 +797,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/xenophilius.jpg",
 			"howartsHouse": "Ravenclaw",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Fundador y editor de la revista El Quisquilloso. Fue considerado por todos sus conocidos como un chiflado que creía en extrañas criaturas y plantas. Escribía en su revista todo tipo de artículos sobre tales temas y, por tal motivo, la mayoría de los lectores se burlaron de él y dejaron de tomarlo en serio. Su esposa fue Pandora, la cual falleció accidentalmente en 1990, dejándolo solo con su hija Luna. Luchó en la Segunda Guerra Mágica, incondicionalmente del lado de la Orden del Fénix (aunque nunca fue un auténtico afiliado) y distribuyó por medio de El Quisquilloso propaganda amiga de Harry Potter, luego de la muerte de Albus Dumbledore y la Caída del Ministerio de Magia. Enfadados por las cosas que escribía Xenophilius, los Mortífagos Selwyn y Travers capturaron a Luna durante una Incursión en el Expreso de Hogwarts, llevándosela a la Mansión Malfoy. El estado de Xenophilius y de su casa (de por sí sucio y antihigiénico) empeoró notablemente por la depresión, y se obsesionó con la idea de recuperar a su hija. El 31 de diciembre de 1997, a Xenophilius se le presentó una oportunidad de recuperar a Luna: Harry Potter fue directamente hacia él. Harry y sus amigos, Ron Weasley y Hermione Granger, querían saber algo sobre el símbolo de las Reliquias de la Muerte, dibujado por Dumbledore en Los Cuentos de Beedle el Bardo. Xenophilius envió una carta a Selwyn y Travers pidiéndoles que fueran a la casa de inmediato, pues tenía a Harry, y distrajo al trío con la leyenda e las Reliquias. Cuando estos pretendían irse, Harry descubrió que Luna no estaba en la casa desde hacía semanas, y comprendió lo que sucedía. Selwyn y Travers llegaron a tiempo, pero Hermione hizo explotar un cuerno de Erumpent que Xenophilius coleccionaba en una repisa, destruyendo la casa entera y escapando del lugar. Sin embargo, como favor a Xenophilius y a Luna en pago por su ayuda, Hermione permitió que los Mortífagos viesen a Harry antes de que desaparecieran, probando que no había mentido. Debido a que Harry sí estaba en la casa, y que su escape fue pura negligencia de Selwyn y Travers por no haber revisado antes, estos dejaron con vida tanto a Xenophilius como a Luna, pero el primero fue enviado a Azkaban y la segunda permaneció secuestrada tres meses más, hasta ser rescatada por el trío de la mansión Malfoy. Luego de la guerra, Xenophilius fue liberado. Luna se casó con Rolf Scamander y le dio a Xenophilius dos nietos: Lorcan y Lysander."
 		},
 		{
 			"id": 48,
@@ -766,7 +814,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/bartyJr.jpg",
 			"howartsHouse": "",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Se convirtió en un ferviente seguidor de Lord Voldemort para convertirse en un Mortífago y un Mago tenebroso en su adolescencia.[2] Fue el primer fugitivo de la prisión de Azkaban en sus casi 300 años de historia, aunque solo su padre, su difunta madre y la elfina doméstica de la familia lo supieron hasta 1994, cuando se reveló a Albus Dumbledore, Harry Potter, Minerva McGonagall y Severus Snape mientras Crouch estaba bajo la influencia de Veritaserum. En 1981, poco después de la primera derrota de Voldemort, Crouch supuestamente participó en la captura y tortura de Frank y Alice Longbottom junto con los Lestrange, usando la Maldición Cruciatus para conducir a los dos Aurores a la locura. Crouch y sus camaradas fueron condenados a cadena perpetua en Azkaban por sus crímenes por su propio padre. Crouch y sus padres tramaron un complot bajo el cual la madre de Crouch tomaría su lugar en Azkaban, usando la poción multijugos para disfrazarse. Ella murió y fue enterrada en Azkaban, con el resultado de que el mundo mágico creía que Crouch mismo estaba muerto. Crouch pasó los años siguientes viviendo bajo la Maldición Imperius de su padre. Finalmente se liberó con la ayuda de Voldemort, quien se había enterado de que Crouch todavía estaba vivo, lo que lo hizo ingresar nuevamente al servicio del Señor Oscuro. Luego se disfrazó de Alastor Moody, ex Auror y el nuevo profesor de Defensa Contra las Artes Oscuras en Hogwarts durante el año escolar 1994-1995. En este papel, Crouch arregló el Torneo de los Tres Magos para que Harry Potter fuera elegido como campeón y convirtió la Copa de los Tres Magos en un Traslador que transportó a Harry y Cedric Diggory a Voldemort. Poco después, su identidad fue expuesta, y Crouch recibió el Beso del Dementor de un Dementor que Cornelius Fudge había traído consigo."
 		},
 		{
 			"id": 49,
@@ -782,7 +831,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/corneliusFudge.jpg",
 			"howartsHouse": "",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Ministro de Magia desde 1990 hasta 1996. De este modo tenía el control completo del Ministerio de Magia, el principal órgano de gobierno de la comunidad mágica de Gran Bretaña. Fudge empezó su carrera en el Ministerio como Ministro Jr. en el Departamento de Accidentes y Catástrofes Mágicas. Luego sucedió a Millicent Bagnold como Ministro de Magia, y por lo tanto tenía la responsabilidad de cumplir con el Primer Ministro muggle cuando fuera necesario. En 1993, tras los ataques a hijos de muggles en el Colegio Hogwarts de Magia y Hechicería debido a la apertura de la Cámara de los Secretos, Fudge había llevado a Rubeus Hagrid a Azkaban para que se viera cómo el Ministerio estaba haciendo algo a pesar de la inocencia de Hagrid. En 1993-1994, Cornelius Fudge tuvo que lidiar con la huida del prisionero Sirius Black de Azkaban, ya que Fudge creía que Black era una amenaza para la sociedad, había dementores estacionados en Hogwarts y Hogsmeade.Sin embargo, Black escapó de Fudge. Durante las vacaciones de verano, organizó la Copa Mundial de Quidditch de 1994 y el Torneo de los Tres Magos, con Ludo Bagman y Bartemius Crouch Sr. Tras la muerte de Cedric Diggory en el Torneo y el reclamo de Harry de que Lord Voldemort había regresado, Fudge se negó a creerlo, porque significaría el fin del mundo que había trabajado tan difícilmente para construir. En su lugar, utilizó su influencia en el diario El Profeta para calumniar y desacreditar a Harry y Albus Dumbledore, Fudge tenía la paranoia de que Dumbledore quería su puesto en el Ministerio y entonces se dedicó a mentirle a la comunidad mágica. Sin embargo, después de la batalla del Departamento de Misterios, Fudge vio a Voldemort con sus propios ojos y se vio obligado a admitir que estaba equivocado, haciendo que la comunidad de magos reclamara su renuncia. Fue reemplazado como Ministro de Magia por Rufus Scrimgeour, pero se quedó en calidad de asesor y comunicador de prensa de la Segunda Guerra Mágica al Primer Ministro muggle porque Scrimgeour no tenía tiempo debido al esfuerzo que hacia contra Lord Voldemort e intentar abrir el legado Harry por Albus Dumbledore en busca de alguna pista."
 		},
 		{
 			"id": 50,
@@ -798,7 +848,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/horaceSlughorn.jpg",
 			"howartsHouse": "Slytherin",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Es un mago, Maestro de Pociones y Jefe de la Casa Slytherin en el Colegio Hogwarts de Magia y Hechiceria. Fue profesor de pociones durante más de cincuenta años y jefe de Slytherin antes de jubilarse en 1981. Fue amigo y colega de Albus Dumbledore, quien lo persuadió a regresar para ocupar el cargo en 1996."
 		},
 		{
 			"id": 51,
@@ -814,7 +865,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/fenrirGreyback.jpg",
 			"howartsHouse": "Slytherin",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Era un hombre lobo conocido por su ferocidad y su preferencia por atacar a niños. Fue un líder en su comunidad y buscaba infectar con la licantropía a cuanta más gente mejor, con la intención de construir un poderoso ejército que pudiera derrocar a la comunidad mágica. Fue él quien convirtió a Remus Lupin en hombre lobo. Durante la Segunda Guerra Mágica, él y el grupo de hombres lobo, al cual lideraba, se aliaron con Lord Voldemort, aunque no eran considerados mortífagos. Greyback luchó en la Batalla de la Torre de Astronomía, durante la cual expresó su afán y deseo de morder a los niños de Hogwarts y en la que dejó a Bill Weasley con una severa cicatríz, más tarde en ese mismo año dirigió una banda de carroñeros cuando Voldemort estaba con el control del Ministerio de Magia. En Harry Potter y las Reliquias de la Muerte Greyback luchó en la Batalla de Hogwarts, en la que hirió a Lavender Brown con una grave mordida en el cuello, pero fue incapacitado por un hechizo de Hermione y una bola de cristal que le lanzó Sybill Trelawney en la cabeza. Durante la segunda parte de la batalla, en donde ambos bandos se confrontaron en el Gran Comedor, es derrotado por Ron Weasley y Neville Longbottom. Es probable que después muriese o fuese encarcelado en Azkaban."
 		},
 		{
 			"id": 52,
@@ -830,7 +882,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/shacklebolt.jpg",
 			"howartsHouse": "Gryffindor",
-			"patronus": "Lince"
+			"patronus": "Lince",
+      "history":"Trabajaba en el Ministerio de Magia. Trabajaba en éste como Auror, pero se unió a la reconstituida Orden del Fénix en 1995, tras el regreso de Lord Voldemort. Trabajando de encubierto en el Ministerio, llevaba información a la Orden y enviaba información errónea de la ubicación de Sirius Black al Ministerio diciendo que fue visto en el Tíbet. Al ser auror, podía dar información a la Orden del Fénix sobre el Ministerio. En 1996, luchó en la Batalla del Departamento de Misterios y luego fue asignado a cuidar al Primer Ministro Muggle, haciéndose pasar por su secretario. Fue forzado a esconderse tras la caída del Ministerio en 1997, pero continuó oponiéndose al régimen de Voldemort. En 1998, luchó en la Batalla de Hogwarts, y fue nombrado Ministro de Magia Encargado en el período posterior. Eventualmente fue nombrado Ministro de Magia oficialmente y él, junto con Harry Potter, Ron Weasley y Hermione Granger trabajando duro para renovar el Ministerio luego de la Segunda Guerra Mágica. Eventualmente lograron reducir en gran medida la corrupción y los prejuicios de sangre pura dentro de la organización. En 2019, Kingsley fue reemplazado como Ministro de Magia por Hermione."
 		},
 		{
 			"id": 53,
@@ -846,7 +899,8 @@
 			},
 			"img": "https://raw.githubusercontent.com/MaitaneAbad/api-harry-potter/main/api/images/rufusScrimgeour.jpg",
 			"howartsHouse": "",
-			"patronus": "Desconocido"
+			"patronus": "Desconocido",
+      "history":"Se unió originalmente al Ministerio de Magia como un Auror, donde se convirtió en un veterano endurecido, pasando la mayor parte de su vida luchando contra magos oscuros. Eventualmente llegó a ser Jefe de la Oficina de Aurores. Durante la Segunda Guerra Mágica, Scrimgeour fue designado para suceder a Cornelius Fudge como Ministro de Magia. Mientras él apareció para proporcionar una postura mucho más dura y decidida contra Lord Voldemort y sus mortífagos, cometió el mismo error al crear un falso aspecto de seguridad, a pesar de que en realidad los esfuerzos de Scrimgeour fueron disminuyendo durante el progreso de la guerra. Esta política finalmente le costó a Scrimgeour la vida, ya que dejó el Ministerio abierto a la infiltración de los Mortífagos, que utilizaron a varios funcionarios de alto rango del Ministerio, todos los cuales habían sido subvertidos a su voluntad, para poner en marcha un exitoso Golpe de Estado y llevar al Ministerio bajo el control de Voldemort. Voldemort, buscando la ubicación de Harry Potter, capturó y torturó brutalmente a Scrimgeour, aunque cuando Scrimgeour se negó a hablar, Voldemort lo mató."
 		}
 		
 	]
